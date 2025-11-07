@@ -13,9 +13,9 @@ api_books_path = "C:\\Users\\Otzaria\\Desktop\\otzaria-library\\sefariaToOtzaria
 delete_api_files = false
 
 [sefaria]
-toc_file = "\\\\wsl.localhost\\Ubuntu\\root\\Sefaria-Export\\table_of_contents.json"
-json_folder = "\\\\wsl.localhost\\Ubuntu\\root\\Sefaria-Export\\json"
-schemas_folder = "\\\\wsl.localhost\\Ubuntu\\root\\Sefaria-Export\\schemas"
-links_folder = "\\\\wsl.localhost\\Ubuntu\\root\\Sefaria-Export\\links"
+toc_file = "\\\\wsl.localhost\\Ubuntu\\home\\user\\Sefaria-Export\\table_of_contents.json"
+json_folder = "\\\\wsl.localhost\\Ubuntu\\home\\user\\Sefaria-Export\\json\\Tanakh\\Torah"
+schemas_folder = "\\\\wsl.localhost\\Ubuntu\\home\\user\\Sefaria-Export\\schemas"
+links_folder = "\\\\wsl.localhost\\Ubuntu\\home\\user\\Sefaria-Export\\links"
 files_black_list_file_path = "C:\\Users\\Otzaria\\Desktop\\otzaria-library\\sefariaToOtzaria\\סקריפטים\\ספרים.TXT"
 authors_black_files_list_file_path = "C:\\Users\\Otzaria\\Desktop\\otzaria-library\\sefariaToOtzaria\\סקריפטים\\מחברים.TXT"
