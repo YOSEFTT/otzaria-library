@@ -1,685 +1,524 @@
-{
-    "3": [
-        {
-            "start": 4,
-            "end": 13,
-            "refs": {
-                "Meilah 2a:1-8a:2": "מעילה ב׳ א:א׳-ח׳ א:ב׳"
-            }
-        }
-    ],
-    "4": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Meilah 2a": "מעילה ב׳ א"
-            }
-        }
-    ],
-    "8": [
-        {
-            "start": 156,
-            "end": 168,
-            "refs": {
-                "Menachot 47b": "מנחות מ״ז ב"
-            }
-        },
-        {
-            "start": 174,
-            "end": 179,
-            "refs": {
-                "Tosafot on Menachot 47b": "תוספות על מנחות מ״ז ב"
-            }
-        }
-    ],
-    "10": [
-        {
-            "start": 198,
-            "end": 210,
-            "refs": {
-                "Zevachim 84a": "זבחים פ״ד א"
-            }
-        },
-        {
-            "start": 219,
-            "end": 227,
-            "refs": {
-                "Tosafot on Zevachim 84a": "תוספות על זבחים פ״ד א"
-            }
-        }
-    ],
-    "11": [
-        {
-            "start": 379,
-            "end": 397,
-            "refs": {
-                "Mishneh Torah, Trespass 3": "משנה תורה, הלכות מעילה ג׳"
-            }
-        }
-    ],
-    "14": [
-        {
-            "start": 239,
-            "end": 253,
-            "refs": {
-                "Zevachim 119a": "זבחים קי״ט א"
-            }
-        }
-    ],
-    "15": [
-        {
-            "start": 4,
-            "end": 8,
-            "refs": {
-                "Rashi on Zevachim 3": "רש\"י על זבחים ג׳"
-            }
-        }
-    ],
-    "16": [
-        {
-            "start": 479,
-            "end": 491,
-            "refs": {
-                "Menachot 47b": "מנחות מ״ז ב"
-            }
-        }
-    ],
-    "17": [
-        {
-            "start": 141,
-            "end": 153,
-            "refs": {
-                "Menachot 13b": "מנחות י״ג ב"
-            }
-        }
-    ],
-    "24": [
-        {
-            "start": 121,
-            "end": 132,
-            "refs": {
-                "Zevachim 32": "זבחים ל״ב"
-            }
-        }
-    ],
-    "25": [
-        {
-            "start": 4,
-            "end": 8,
-            "refs": {
-                "Zevachim 6": "זבחים ו׳"
-            }
-        }
-    ],
-    "28": [
-        {
-            "start": 335,
-            "end": 356,
-            "refs": {
-                "Mishneh Torah, Trespass 3": "משנה תורה, הלכות מעילה ג׳"
-            }
-        },
-        {
-            "start": 684,
-            "end": 706,
-            "refs": {
-                "Mishneh Torah, Trespass 2": "משנה תורה, הלכות מעילה ב׳"
-            }
-        }
-    ],
-    "30": [
-        {
-            "start": 459,
-            "end": 486,
-            "refs": {
-                "Mishneh Torah, Trespass 3:6": "משנה תורה, הלכות מעילה ג׳:ו׳"
-            }
-        }
-    ],
-    "36": [
-        {
-            "start": 213,
-            "end": 231,
-            "refs": {
-                "Tosafot on Zevachim 56a": "תוספות על זבחים נ״ו א"
-            }
-        },
-        {
-            "start": 238,
-            "end": 243,
-            "refs": {
-                "Rashi on Zevachim 56a": "רש\"י על זבחים נ״ו א"
-            }
-        }
-    ],
-    "37": [
-        {
-            "start": 4,
-            "end": 8,
-            "refs": {
-                "Rashi on Zevachim 8": "רש\"י על זבחים ח׳",
-                "Tosafot on Zevachim 8": "תוספות על זבחים ח׳"
-            }
-        }
-    ],
-    "38": [
-        {
-            "start": 3,
-            "end": 7,
-            "refs": {
-                "Zevachim 8a": "זבחים ח׳ א",
-                "Zevachim 56a": "זבחים נ״ו א"
-            }
-        },
-        {
-            "start": 45,
-            "end": 49,
-            "refs": {
-                "Zevachim 8a": "זבחים ח׳ א",
-                "Zevachim 56a": "זבחים נ״ו א"
-            }
-        }
-    ],
-    "40": [
-        {
-            "start": 286,
-            "end": 299,
-            "refs": {
-                "Shevuot 11a": "שבועות י״א א"
-            }
-        }
-    ],
-    "41": [
-        {
-            "start": 148,
-            "end": 159,
-            "refs": {
-                "Zevachim 90a": "זבחים צ׳ א"
-            }
-        },
-        {
-            "start": 534,
-            "end": 546,
-            "refs": {
-                "Zevachim 89b": "זבחים פ״ט ב"
-            }
-        }
-    ],
-    "43": [
-        {
-            "start": 356,
-            "end": 379,
-            "refs": {
-                "Mishneh Torah, Trespass 3:11": "משנה תורה, הלכות מעילה ג׳:י״א"
-            }
-        },
-        {
-            "start": 445,
-            "end": 457,
-            "refs": {
-                "Mishneh Torah, Trespass 3:1": "משנה תורה, הלכות מעילה ג׳:א׳"
-            }
-        }
-    ],
-    "44": [
-        {
-            "start": 10,
-            "end": 12,
-            "refs": {
-                "Mishneh Torah, Trespass 3:1": "משנה תורה, הלכות מעילה ג׳:א׳",
-                "Mishneh Torah, Trespass 3:11": "משנה תורה, הלכות מעילה ג׳:י״א"
-            }
-        },
-        {
-            "start": 188,
-            "end": 202,
-            "refs": {
-                "Mishnah Meilah 2": "משנה מעילה ב׳",
-                "Meilah 8a:3-10b:6": "מעילה ח׳ א:ג׳-י׳ ב:ו׳"
-            }
-        },
-        {
-            "start": 745,
-            "end": 765,
-            "refs": {
-                "Zevachim 85b": "זבחים פ״ה ב"
-            }
-        },
-        {
-            "start": 811,
-            "end": 815,
-            "refs": {
-                "Zevachim 85b": "זבחים פ״ה ב"
-            }
-        },
-        {
-            "start": 911,
-            "end": 915,
-            "refs": {
-                "Mishnah Zevachim 2": "משנה זבחים ב׳",
-                "Zevachim 15b:9-31b:13": "זבחים ט״ו ב:ט׳-ל״א ב:י״ג"
-            }
-        }
-    ],
-    "45": [
-        {
-            "start": 272,
-            "end": 284,
-            "refs": {
-                "Menachot 13b": "מנחות י״ג ב"
-            }
-        },
-        {
-            "start": 381,
-            "end": 385,
-            "refs": {
-                "Menachot 13b": "מנחות י״ג ב"
-            }
-        },
-        {
-            "start": 451,
-            "end": 468,
-            "refs": {
-                "Zevachim 45b": "זבחים מ״ה ב"
-            }
-        },
-        {
-            "start": 720,
-            "end": 750,
-            "refs": {
-                "Tosafot on Zevachim 43a:6:1": "תוספות על זבחים מ״ג א:ו׳:א׳"
-            }
-        }
-    ],
-    "48": [
-        {
-            "start": 221,
-            "end": 239,
-            "refs": {
-                "Tosafot on Nazir 24b": "תוספות על נזיר כ״ד ב"
-            }
-        },
-        {
-            "start": 251,
-            "end": 262,
-            "refs": {
-                "Nazir 46b": "נזיר מ״ו ב"
-            }
-        },
-        {
-            "start": 309,
-            "end": 317,
-            "refs": {
-                "Tosafot on Nazir 24b": "תוספות על נזיר כ״ד ב",
-                "Tosafot on Nazir 46b": "תוספות על נזיר מ״ו ב"
-            }
-        },
-        {
-            "start": 355,
-            "end": 377,
-            "refs": {
-                "Mishneh Torah, Nazariteship 8": "משנה תורה, הלכות נזירות ח׳"
-            }
-        },
-        {
-            "start": 623,
-            "end": 646,
-            "refs": {
-                "Mishneh Torah, Nazariteship 9": "משנה תורה, הלכות נזירות ט׳"
-            }
-        }
-    ],
-    "51": [
-        {
-            "start": 283,
-            "end": 302,
-            "refs": {
-                "Mishneh Torah, Trespass 2": "משנה תורה, הלכות מעילה ב׳"
-            }
-        },
-        {
-            "start": 439,
-            "end": 455,
-            "refs": {
-                "Yoma 67a": "יומא ס״ז א"
-            }
-        },
-        {
-            "start": 572,
-            "end": 585,
-            "refs": {
-                "Chullin 117a": "חולין קי״ז א"
-            }
-        },
-        {
-            "start": 587,
-            "end": 600,
-            "refs": {
-                "Keritot 6b": "כריתות ו׳ ב"
-            }
-        },
-        {
-            "start": 633,
-            "end": 640,
-            "refs": {
-                "Yoma 67a": "יומא ס״ז א",
-                "Chullin 117a": "חולין קי״ז א",
-                "Keritot 6b": "כריתות ו׳ ב"
-            }
-        },
-        {
-            "start": 695,
-            "end": 707,
-            "refs": {
-                "Pesachim 26a": "פסחים כ״ו א"
-            }
-        }
-    ],
-    "52": [
-        {
-            "start": 10,
-            "end": 32,
-            "refs": {
-                "Pesachim 26a": "פסחים כ״ו א",
-                "Chullin 117a": "חולין קי״ז א",
-                "Keritot 6b": "כריתות ו׳ ב"
-            }
-        },
-        {
-            "start": 285,
-            "end": 304,
-            "refs": {
-                "Mishnah Middot 3:3": "משנה מדות ג׳:ג׳"
-            }
-        },
-        {
-            "start": 456,
-            "end": 472,
-            "refs": {
-                "Sukkah 49b": "סוכה מ״ט ב"
-            }
-        },
-        {
-            "start": 534,
-            "end": 538,
-            "refs": {
-                "Sukkah 49b": "סוכה מ״ט ב"
-            }
-        },
-        {
-            "start": 563,
-            "end": 567,
-            "refs": {
-                "Sukkah 49b": "סוכה מ״ט ב"
-            }
-        },
-        {
-            "start": 754,
-            "end": 758,
-            "refs": {
-                "Sukkah 49b": "סוכה מ״ט ב"
-            }
-        }
-    ],
-    "63": [
-        {
-            "start": 307,
-            "end": 325,
-            "refs": {
-                "Tosafot on Chullin 36a": "תוספות על חולין ל״ו א"
-            }
-        }
-    ],
-    "64": [
-        {
-            "start": 3,
-            "end": 7,
-            "refs": {
-                "Berakhot 51b:11-53b:33": "ברכות נ״א ב:י״א-נ״ג ב:ל״ג",
-                "Pesachim 65b:10-73b:16": "פסחים ס״ה ב:י׳-ע״ג ב:ט״ז",
-                "Jerusalem Talmud Berakhot 8:1:1-8:7": "תלמוד ירושלמי ברכות ח׳:א׳:א׳-ח׳:ז׳",
-                "Jerusalem Talmud Pesachim 6:1:1-6:4": "תלמוד ירושלמי פסחים ו׳:א׳:א׳-ו׳:ד׳"
-            }
-        }
-    ],
-    "65": [
-        {
-            "start": 3,
-            "end": 7,
-            "refs": {
-                "Berakhot 51b:11-53b:33": "ברכות נ״א ב:י״א-נ״ג ב:ל״ג",
-                "Pesachim 65b:10-73b:16": "פסחים ס״ה ב:י׳-ע״ג ב:ט״ז",
-                "Jerusalem Talmud Berakhot 8:1:1-8:7": "תלמוד ירושלמי ברכות ח׳:א׳:א׳-ח׳:ז׳",
-                "Jerusalem Talmud Pesachim 6:1:1-6:4": "תלמוד ירושלמי פסחים ו׳:א׳:א׳-ו׳:ד׳"
-            }
-        },
-        {
-            "start": 17,
-            "end": 26,
-            "refs": {
-                "Bava Kamma 62b:7-83a:12": "בבא קמא ס״ב ב:ז׳-פ״ג א:י״ב",
-                "Jerusalem Talmud Bava Kamma 7:1:1-7:6": "תלמוד ירושלמי בבא קמא ז׳:א׳:א׳-ז׳:ו׳"
-            }
-        }
-    ],
-    "66": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Pesachim 13": "פסחים י״ג",
-                "Bava Kamma 13": "בבא קמא י״ג"
-            }
-        }
-    ],
-    "67": [
-        {
-            "start": 3,
-            "end": 7,
-            "refs": {
-                "Pesachim 13a": "פסחים י״ג א",
-                "Bava Kamma 13a": "בבא קמא י״ג א",
-                "Bava Kamma 62b": "בבא קמא ס״ב ב"
-            }
-        },
-        {
-            "start": 181,
-            "end": 185,
-            "refs": {
-                "Pesachim 13a": "פסחים י״ג א",
-                "Bava Kamma 13a": "בבא קמא י״ג א",
-                "Bava Kamma 62b": "בבא קמא ס״ב ב"
-            }
-        },
-        {
-            "start": 308,
-            "end": 318,
-            "refs": {
-                "Mishnah Meilah 2": "משנה מעילה ב׳",
-                "Meilah 8a:3-10b:6": "מעילה ח׳ א:ג׳-י׳ ב:ו׳"
-            }
-        }
-    ],
-    "76": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Tosafot on Zevachim 16": "תוספות על זבחים ט״ז"
-            }
-        }
-    ],
-    "79": [
-        {
-            "start": 417,
-            "end": 443,
-            "refs": {
-                "Mishneh Torah, Forbidden Foods 2": "משנה תורה, הלכות מאכלות אסורות ב׳"
-            }
-        }
-    ],
-    "82": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Keritot 17": "כריתות י״ז"
-            }
-        }
-    ],
-    "83": [
-        {
-            "start": 271,
-            "end": 281,
-            "refs": {
-                "Makkot 18": "מכות י״ח"
-            }
-        }
-    ],
-    "87": [
-        {
-            "start": 353,
-            "end": 369,
-            "refs": {
-                "Tosafot on Shabbat 89b": "תוספות על שבת פ״ט ב"
-            }
-        },
-        {
-            "start": 371,
-            "end": 384,
-            "refs": {
-                "Zevachim 78a": "זבחים ע״ח א"
-            }
-        },
-        {
-            "start": 455,
-            "end": 459,
-            "refs": {
-                "Shabbat 89b": "שבת פ״ט ב",
-                "Zevachim 78a": "זבחים ע״ח א"
-            }
-        },
-        {
-            "start": 618,
-            "end": 622,
-            "refs": {
-                "Shabbat 89b": "שבת פ״ט ב",
-                "Makkot": "מכות",
-                "Zevachim 78a": "זבחים ע״ח א"
-            }
-        }
-    ],
-    "88": [
-        {
-            "start": 4,
-            "end": 13,
-            "refs": {
-                "Shabbat 51b:7-56b:20": "שבת נ״א ב:ז׳-נ״ו ב:כ׳",
-                "Zevachim 47a:12-57b:12": "זבחים מ״ז א:י״ב-נ״ז ב:י״ב"
-            }
-        }
-    ],
-    "89": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Shabbat 18": "שבת י״ח",
-                "Zevachim 18": "זבחים י״ח"
-            }
-        }
-    ],
-    "91": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Kiddushin 19": "קידושין י״ט"
-            }
-        }
-    ],
-    "92": [
-        {
-            "start": 256,
-            "end": 279,
-            "refs": {
-                "Shulchan Arukh, Choshen Mishpat 363:7": "שולחן ערוך, חושן משפט שס״ג:ז׳"
-            }
-        }
-    ],
-    "94": [
-        {
-            "start": 456,
-            "end": 466,
-            "refs": {
-                "Mishnah Meilah 6": "משנה מעילה ו׳",
-                "Meilah 20a:12-22a:4": "מעילה כ׳ א:י״ב-כ״ב א:ד׳"
-            }
-        }
-    ],
-    "95": [
-        {
-            "start": 79,
-            "end": 90,
-            "refs": {
-                "Menachot 101": "מנחות ק״א"
-            }
-        }
-    ],
-    "96": [
-        {
-            "start": 4,
-            "end": 11,
-            "refs": {
-                "Menachot 63b:9-72b:18": "מנחות ס״ג ב:ט׳-ע״ב ב:י״ח"
-            }
-        }
-    ],
-    "97": [
-        {
-            "start": 4,
-            "end": 8,
-            "refs": {
-                "Menachot 20": "מנחות כ׳"
-            }
-        }
-    ],
-    "101": [
-        {
-            "start": 210,
-            "end": 231,
-            "refs": {
-                "Mishneh Torah, Vows 9": "משנה תורה, הלכות נדרים ט׳"
-            }
-        }
-    ],
-    "102": [
-        {
-            "start": 69,
-            "end": 85,
-            "refs": {
-                "Ran on Nedarim 54b": "ר\"ן על נדרים נ״ד ב"
-            }
-        }
-    ],
-    "103": [
-        {
-            "start": 11,
-            "end": 16,
-            "refs": {
-                "Tosafot on Nedarim 54b": "תוספות על נדרים נ״ד ב"
-            }
-        }
-    ],
-    "104": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Tosafot on Nedarim 21": "תוספות על נדרים כ״א",
-                "Ran on Nedarim 21": "ר\"ן על נדרים כ״א"
-            }
-        }
-    ]
-}
+[
+  {
+    "line_index_1": 3,
+    "line_index_2": 3,
+    "heRef_2": "מעילה ב׳ א, א׳-ח׳ א, ב׳",
+    "path_2": "מעילה.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 13
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 3,
+    "heRef_2": "מעילה ב׳ א",
+    "path_2": "מעילה.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 9
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 3,
+    "heRef_2": "מנחות מ״ז ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": "linker",
+    "start": 156,
+    "end": 168
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 4,
+    "heRef_2": "תוספות על מנחות מ״ז ב",
+    "path_2": "תוספות על מנחות.txt",
+    "Conection Type": "linker",
+    "start": 174,
+    "end": 179
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 3,
+    "heRef_2": "זבחים פ״ד א",
+    "path_2": "זבחים.txt",
+    "Conection Type": "linker",
+    "start": 198,
+    "end": 210
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 4,
+    "heRef_2": "תוספות על זבחים פ״ד א",
+    "path_2": "תוספות על זבחים.txt",
+    "Conection Type": "linker",
+    "start": 219,
+    "end": 227
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות מעילה ג׳",
+    "path_2": "משנה תורה, הלכות מעילה.txt",
+    "Conection Type": "linker",
+    "start": 379,
+    "end": 397
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 3,
+    "heRef_2": "זבחים קי״ט א",
+    "path_2": "זבחים.txt",
+    "Conection Type": "linker",
+    "start": 239,
+    "end": 253
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 4,
+    "heRef_2": "רש\"י על זבחים ג׳",
+    "path_2": "רשי על זבחים.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 8
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 3,
+    "heRef_2": "מנחות מ״ז ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": "linker",
+    "start": 479,
+    "end": 491
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 3,
+    "heRef_2": "מנחות י״ג ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": "linker",
+    "start": 141,
+    "end": 153
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 3,
+    "heRef_2": "זבחים ל״ב",
+    "path_2": "זבחים.txt",
+    "Conection Type": "linker",
+    "start": 121,
+    "end": 132
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 3,
+    "heRef_2": "זבחים ו׳",
+    "path_2": "זבחים.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 8
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות מעילה ג׳",
+    "path_2": "משנה תורה, הלכות מעילה.txt",
+    "Conection Type": "linker",
+    "start": 335,
+    "end": 356
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות מעילה ב׳",
+    "path_2": "משנה תורה, הלכות מעילה.txt",
+    "Conection Type": "linker",
+    "start": 684,
+    "end": 706
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות מעילה ג׳, ו׳",
+    "path_2": "משנה תורה, הלכות מעילה.txt",
+    "Conection Type": "linker",
+    "start": 459,
+    "end": 486
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 4,
+    "heRef_2": "תוספות על זבחים נ״ו א",
+    "path_2": "תוספות על זבחים.txt",
+    "Conection Type": "linker",
+    "start": 213,
+    "end": 231
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 4,
+    "heRef_2": "רש\"י על זבחים נ״ו א",
+    "path_2": "רשי על זבחים.txt",
+    "Conection Type": "linker",
+    "start": 238,
+    "end": 243
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 3,
+    "heRef_2": "שבועות י״א א",
+    "path_2": "שבועות.txt",
+    "Conection Type": "linker",
+    "start": 286,
+    "end": 299
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 3,
+    "heRef_2": "זבחים צ׳ א",
+    "path_2": "זבחים.txt",
+    "Conection Type": "linker",
+    "start": 148,
+    "end": 159
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 3,
+    "heRef_2": "זבחים פ״ט ב",
+    "path_2": "זבחים.txt",
+    "Conection Type": "linker",
+    "start": 534,
+    "end": 546
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות מעילה ג׳, י״א",
+    "path_2": "משנה תורה, הלכות מעילה.txt",
+    "Conection Type": "linker",
+    "start": 356,
+    "end": 379
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות מעילה ג׳, א׳",
+    "path_2": "משנה תורה, הלכות מעילה.txt",
+    "Conection Type": "linker",
+    "start": 445,
+    "end": 457
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 3,
+    "heRef_2": "זבחים פ״ה ב",
+    "path_2": "זבחים.txt",
+    "Conection Type": "linker",
+    "start": 745,
+    "end": 765
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 3,
+    "heRef_2": "זבחים פ״ה ב",
+    "path_2": "זבחים.txt",
+    "Conection Type": "linker",
+    "start": 811,
+    "end": 815
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 3,
+    "heRef_2": "מנחות י״ג ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": "linker",
+    "start": 272,
+    "end": 284
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 3,
+    "heRef_2": "מנחות י״ג ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": "linker",
+    "start": 381,
+    "end": 385
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 3,
+    "heRef_2": "זבחים מ״ה ב",
+    "path_2": "זבחים.txt",
+    "Conection Type": "linker",
+    "start": 451,
+    "end": 468
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 4,
+    "heRef_2": "תוספות על זבחים מ״ג א, ו׳, א׳",
+    "path_2": "תוספות על זבחים.txt",
+    "Conection Type": "linker",
+    "start": 720,
+    "end": 750
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 4,
+    "heRef_2": "תוספות על נזיר כ״ד ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "linker",
+    "start": 221,
+    "end": 239
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 3,
+    "heRef_2": "נזיר מ״ו ב",
+    "path_2": "נזיר.txt",
+    "Conection Type": "linker",
+    "start": 251,
+    "end": 262
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות נזירות ח׳",
+    "path_2": "משנה תורה, הלכות נזירות.txt",
+    "Conection Type": "linker",
+    "start": 355,
+    "end": 377
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות נזירות ט׳",
+    "path_2": "משנה תורה, הלכות נזירות.txt",
+    "Conection Type": "linker",
+    "start": 623,
+    "end": 646
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות מעילה ב׳",
+    "path_2": "משנה תורה, הלכות מעילה.txt",
+    "Conection Type": "linker",
+    "start": 283,
+    "end": 302
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 3,
+    "heRef_2": "יומא ס״ז א",
+    "path_2": "יומא.txt",
+    "Conection Type": "linker",
+    "start": 439,
+    "end": 455
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 3,
+    "heRef_2": "חולין קי״ז א",
+    "path_2": "חולין.txt",
+    "Conection Type": "linker",
+    "start": 572,
+    "end": 585
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 3,
+    "heRef_2": "כריתות ו׳ ב",
+    "path_2": "כריתות.txt",
+    "Conection Type": "linker",
+    "start": 587,
+    "end": 600
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 3,
+    "heRef_2": "פסחים כ״ו א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "linker",
+    "start": 695,
+    "end": 707
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 3,
+    "heRef_2": "משנה מדות ג׳, ג׳",
+    "path_2": "משנה מדות.txt",
+    "Conection Type": "linker",
+    "start": 285,
+    "end": 304
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 3,
+    "heRef_2": "סוכה מ״ט ב",
+    "path_2": "סוכה.txt",
+    "Conection Type": "linker",
+    "start": 456,
+    "end": 472
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 3,
+    "heRef_2": "סוכה מ״ט ב",
+    "path_2": "סוכה.txt",
+    "Conection Type": "linker",
+    "start": 534,
+    "end": 538
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 3,
+    "heRef_2": "סוכה מ״ט ב",
+    "path_2": "סוכה.txt",
+    "Conection Type": "linker",
+    "start": 563,
+    "end": 567
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 3,
+    "heRef_2": "סוכה מ״ט ב",
+    "path_2": "סוכה.txt",
+    "Conection Type": "linker",
+    "start": 754,
+    "end": 758
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 4,
+    "heRef_2": "תוספות על חולין ל״ו א",
+    "path_2": "תוספות על חולין.txt",
+    "Conection Type": "linker",
+    "start": 307,
+    "end": 325
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 4,
+    "heRef_2": "תוספות על זבחים ט״ז",
+    "path_2": "תוספות על זבחים.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 9
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות מאכלות אסורות ב׳",
+    "path_2": "משנה תורה, הלכות מאכלות אסורות.txt",
+    "Conection Type": "linker",
+    "start": 417,
+    "end": 443
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 3,
+    "heRef_2": "כריתות י״ז",
+    "path_2": "כריתות.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 9
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 3,
+    "heRef_2": "מכות י״ח",
+    "path_2": "מכות.txt",
+    "Conection Type": "linker",
+    "start": 271,
+    "end": 281
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 4,
+    "heRef_2": "תוספות על שבת פ״ט ב",
+    "path_2": "תוספות על שבת.txt",
+    "Conection Type": "linker",
+    "start": 353,
+    "end": 369
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 3,
+    "heRef_2": "זבחים ע״ח א",
+    "path_2": "זבחים.txt",
+    "Conection Type": "linker",
+    "start": 371,
+    "end": 384
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 3,
+    "heRef_2": "קידושין י״ט",
+    "path_2": "קידושין.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 9
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 4,
+    "heRef_2": "שולחן ערוך, חושן משפט שס״ג, ז׳",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "linker",
+    "start": 256,
+    "end": 279
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 3,
+    "heRef_2": "מנחות ק״א",
+    "path_2": "מנחות.txt",
+    "Conection Type": "linker",
+    "start": 79,
+    "end": 90
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 2219,
+    "heRef_2": "מנחות ס״ג ב, ט׳-ע״ב ב, י״ח",
+    "path_2": "מנחות.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 11
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 3,
+    "heRef_2": "מנחות כ׳",
+    "path_2": "מנחות.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 8
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות נדרים ט׳",
+    "path_2": "משנה תורה, הלכות נדרים.txt",
+    "Conection Type": "linker",
+    "start": 210,
+    "end": 231
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 4,
+    "heRef_2": "ר\"ן על נדרים נ״ד ב",
+    "path_2": "רן על נדרים.txt",
+    "Conection Type": "linker",
+    "start": 69,
+    "end": 85
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 4,
+    "heRef_2": "תוספות על נדרים נ״ד ב",
+    "path_2": "תוספות על נדרים.txt",
+    "Conection Type": "linker",
+    "start": 11,
+    "end": 16
+  }
+]

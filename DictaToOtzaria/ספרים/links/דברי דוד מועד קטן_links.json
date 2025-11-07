@@ -1,96 +1,74 @@
-{
-    "8": [
-        {
-            "start": 47,
-            "end": 59,
-            "refs": {
-                "Shabbat 67b:17-76b:5": "שבת ס״ז ב:י״ז-ע״ו ב:ה׳",
-                "Jerusalem Talmud Sheviit 7:1:1-2:7": "תלמוד ירושלמי שביעית ז׳:א׳:א׳-ב׳:ז׳",
-                "Jerusalem Talmud Sheviit 8:1:1-8:8": "תלמוד ירושלמי שביעית ח׳:א׳:א׳-ח׳:ח׳",
-                "Jerusalem Talmud Shabbat 7:1:1-4:3": "תלמוד ירושלמי שבת ז׳:א׳:א׳-ד׳:ג׳"
-            }
-        }
-    ],
-    "9": [
-        {
-            "start": 203,
-            "end": 219,
-            "refs": {
-                "Bava Kamma 26b": "בבא קמא כ״ו ב"
-            }
-        }
-    ],
-    "10": [
-        {
-            "start": 28,
-            "end": 32,
-            "refs": {
-                "Rashi on Bava Kamma 26b": "רש\"י על בבא קמא כ״ו ב"
-            }
-        }
-    ],
-    "11": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Avodah Zarah 3a": "עבודה זרה ג׳ א"
-            }
-        }
-    ],
-    "12": [
-        {
-            "start": 435,
-            "end": 460,
-            "refs": {
-                "Kessef Mishneh on Mishneh Torah, Sabbatical Year and the Jubilee 4": "כסף משנה על משנה תורה, הלכות שמיטה ויובל ד׳"
-            }
-        }
-    ],
-    "15": [
-        {
-            "start": 257,
-            "end": 269,
-            "refs": {
-                "Mishnah Sheviit 1": "משנה שביעית א׳"
-            }
-        }
-    ],
-    "20": [
-        {
-            "start": 300,
-            "end": 327,
-            "refs": {
-                "Tosafot on Ketubot 28b:6:2": "תוספות על כתובות כ״ח ב:ו׳:ב׳"
-            }
-        }
-    ],
-    "50": [
-        {
-            "start": 540,
-            "end": 550,
-            "refs": {
-                "Chullin 83a": "חולין פ״ג א"
-            }
-        }
-    ],
-    "54": [
-        {
-            "start": 12,
-            "end": 23,
-            "refs": {
-                "Moed Katan 13b:15-29a:7": "מועד קטן י״ג ב:ט״ו-כ״ט א:ז׳",
-                "Jerusalem Talmud Moed Katan 3:1:1-9:3": "תלמוד ירושלמי מועד קטן ג׳:א׳:א׳-ט׳:ג׳"
-            }
-        }
-    ],
-    "55": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Moed Katan 14": "מועד קטן י״ד"
-            }
-        }
-    ]
-}
+[
+  {
+    "line_index_1": 9,
+    "line_index_2": 3,
+    "heRef_2": "בבא קמא כ״ו ב",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "linker",
+    "start": 203,
+    "end": 219
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 4,
+    "heRef_2": "רש\"י על בבא קמא כ״ו ב",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "linker",
+    "start": 28,
+    "end": 32
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 3,
+    "heRef_2": "עבודה זרה ג׳ א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 9
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 5,
+    "heRef_2": "כסף משנה על משנה תורה, הלכות שמיטה ויובל ד׳",
+    "path_2": "כסף משנה על משנה תורה, הלכות שמיטה ויובל.txt",
+    "Conection Type": "linker",
+    "start": 435,
+    "end": 460
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 3,
+    "heRef_2": "משנה שביעית א׳",
+    "path_2": "משנה שביעית.txt",
+    "Conection Type": "linker",
+    "start": 257,
+    "end": 269
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 4,
+    "heRef_2": "תוספות על כתובות כ״ח ב, ו׳, ב׳",
+    "path_2": "תוספות על כתובות.txt",
+    "Conection Type": "linker",
+    "start": 300,
+    "end": 327
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 3,
+    "heRef_2": "חולין פ״ג א",
+    "path_2": "חולין.txt",
+    "Conection Type": "linker",
+    "start": 540,
+    "end": 550
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 3,
+    "heRef_2": "מועד קטן י״ד",
+    "path_2": "מועד קטן.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 9
+  }
+]

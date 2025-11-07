@@ -1,99 +1,92 @@
-{
-    "3": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Tractate Avadim 1": "מסכת עבדים א׳"
-            }
-        }
-    ],
-    "4": [
-        {
-            "start": 133,
-            "end": 147,
-            "refs": {
-                "Arakhin 32b": "ערכין ל״ב ב"
-            }
-        }
-    ],
-    "5": [
-        {
-            "start": 75,
-            "end": 94,
-            "refs": {
-                "Rashi on Gittin 36a": "רש\"י על גיטין ל״ו א"
-            }
-        },
-        {
-            "start": 256,
-            "end": 269,
-            "refs": {
-                "Nazir 42a": "נזיר מ״ב א"
-            }
-        },
-        {
-            "start": 298,
-            "end": 314,
-            "refs": {
-                "Horayot 3b": "הוריות ג׳ ב"
-            }
-        }
-    ],
-    "6": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Tractate Avadim 2": "מסכת עבדים ב׳"
-            }
-        }
-    ],
-    "7": [
-        {
-            "start": 163,
-            "end": 187,
-            "refs": {
-                "Mishneh Torah, Slaves 1:5": "משנה תורה, הלכות עבדים א׳:ה׳"
-            }
-        },
-        {
-            "start": 378,
-            "end": 387,
-            "refs": {
-                "Mishneh Torah, Slaves 1:5": "משנה תורה, הלכות עבדים א׳:ה׳"
-            }
-        }
-    ],
-    "8": [
-        {
-            "start": 302,
-            "end": 329,
-            "refs": {
-                "Rashi on Chullin 2a:1:1": "רש\"י על חולין ב׳ א:א׳:א׳",
-                "Rashi on Chullin 2a:5:1": "רש\"י על חולין ב׳ א:ה׳:א׳",
-                "Rashi on Chullin 2a:5:3": "רש\"י על חולין ב׳ א:ה׳:ג׳",
-                "Rashi on Chullin 2a:5:4": "רש\"י על חולין ב׳ א:ה׳:ד׳",
-                "Rashi on Chullin 2a:5:5": "רש\"י על חולין ב׳ א:ה׳:ה׳"
-            }
-        }
-    ],
-    "9": [
-        {
-            "start": 136,
-            "end": 153,
-            "refs": {
-                "Rashi on Bava Batra 13a": "רש\"י על בבא בתרא י״ג א"
-            }
-        }
-    ],
-    "11": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Tractate Avadim 3": "מסכת עבדים ג׳"
-            }
-        }
-    ]
-}
+[
+  {
+    "line_index_1": 3,
+    "line_index_2": 3,
+    "heRef_2": "מסכת עבדים א׳",
+    "path_2": "מסכת עבדים.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 9
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 3,
+    "heRef_2": "ערכין ל״ב ב",
+    "path_2": "ערכין.txt",
+    "Conection Type": "linker",
+    "start": 133,
+    "end": 147
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 4,
+    "heRef_2": "רש\"י על גיטין ל״ו א",
+    "path_2": "רשי על גיטין.txt",
+    "Conection Type": "linker",
+    "start": 75,
+    "end": 94
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 3,
+    "heRef_2": "נזיר מ״ב א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "linker",
+    "start": 256,
+    "end": 269
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 3,
+    "heRef_2": "הוריות ג׳ ב",
+    "path_2": "הוריות.txt",
+    "Conection Type": "linker",
+    "start": 298,
+    "end": 314
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 3,
+    "heRef_2": "מסכת עבדים ב׳",
+    "path_2": "מסכת עבדים.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 9
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות עבדים א׳, ה׳",
+    "path_2": "משנה תורה, הלכות עבדים.txt",
+    "Conection Type": "linker",
+    "start": 163,
+    "end": 187
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות עבדים א׳, ה׳",
+    "path_2": "משנה תורה, הלכות עבדים.txt",
+    "Conection Type": "linker",
+    "start": 378,
+    "end": 387
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 4,
+    "heRef_2": "רש\"י על בבא בתרא י״ג א",
+    "path_2": "רשי על בבא בתרא.txt",
+    "Conection Type": "linker",
+    "start": 136,
+    "end": 153
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 3,
+    "heRef_2": "מסכת עבדים ג׳",
+    "path_2": "מסכת עבדים.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 9
+  }
+]

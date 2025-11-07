@@ -1,580 +1,542 @@
-{
-    "3": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Mishnah Sukkah 1": "משנה סוכה א׳",
-                "Sukkah 2a:1-20b:9": "סוכה ב׳ א:א׳-כ׳ ב:ט׳",
-                "Jerusalem Talmud Sukkah 1": "תלמוד ירושלמי סוכה א׳",
-                "Jerusalem Talmud Sukkah 1:1:2-12:3": "תלמוד ירושלמי סוכה א׳:א׳:ב׳-י״ב:ג׳"
-            }
-        }
-    ],
-    "4": [
-        {
-            "start": 4,
-            "end": 12,
-            "refs": {
-                "Sukkah 2b": "סוכה ב׳ ב",
-                "Jerusalem Talmud Sukkah 1:1:5-7": "תלמוד ירושלמי סוכה א׳:א׳:ה׳-ז׳"
-            }
-        }
-    ],
-    "7": [
-        {
-            "start": 65,
-            "end": 87,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 6": "משנה תורה, הלכות שופר וסוכה ולולב ו׳"
-            }
-        }
-    ],
-    "9": [
-        {
-            "start": 77,
-            "end": 100,
-            "refs": {
-                "Mishneh Torah, Tefillin, Mezuzah and the Torah Scroll 6": "משנה תורה, הלכות תפילין ומזוזה וספר תורה ו׳"
-            }
-        },
-        {
-            "start": 377,
-            "end": 394,
-            "refs": {
-                "Mishneh Torah, Kings and Wars 7": "משנה תורה, הלכות מלכים ומלחמות ז׳"
-            }
-        },
-        {
-            "start": 399,
-            "end": 425,
-            "refs": {
-                "Mishneh Torah, Defilement by Leprosy 14": "משנה תורה, הלכות טומאת צרעת י״ד"
-            }
-        }
-    ],
-    "11": [
-        {
-            "start": 653,
-            "end": 680,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 1": "משנה תורה, הלכות שופר וסוכה ולולב א׳"
-            }
-        },
-        {
-            "start": 2254,
-            "end": 2273,
-            "refs": {
-                "Mishneh Torah, Defilement by a Corpse 7": "משנה תורה, הלכות טומאת מת ז׳"
-            }
-        },
-        {
-            "start": 2744,
-            "end": 2763,
-            "refs": {
-                "Eruvin 78b": "עירובין ע״ח ב"
-            }
-        }
-    ],
-    "12": [
-        {
-            "start": 1395,
-            "end": 1411,
-            "refs": {
-                "Mishneh Torah, Sabbath 14": "משנה תורה, הלכות שבת י״ד"
-            }
-        },
-        {
-            "start": 3003,
-            "end": 3022,
-            "refs": {
-                "Mishneh Torah, Sabbath 13": "משנה תורה, הלכות שבת י״ג"
-            }
-        }
-    ],
-    "15": [
-        {
-            "start": 231,
-            "end": 254,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 4": "משנה תורה, הלכות שופר וסוכה ולולב ד׳"
-            }
-        }
-    ],
-    "17": [
-        {
-            "start": 157,
-            "end": 180,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 4": "משנה תורה, הלכות שופר וסוכה ולולב ד׳"
-            }
-        }
-    ],
-    "21": [
-        {
-            "start": 73,
-            "end": 93,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 4": "משנה תורה, הלכות שופר וסוכה ולולב ד׳"
-            }
-        }
-    ],
-    "24": [
-        {
-            "start": 49,
-            "end": 74,
-            "refs": {
-                "Mishneh Torah, Vessels of the Sanctuary and Those Who Serve Therein 9": "משנה תורה, הלכות כלי המקדש והעובדין בו ט׳"
-            }
-        }
-    ],
-    "27": [
-        {
-            "start": 112,
-            "end": 142,
-            "refs": {
-                "Mishneh Torah, Defilement by Leprosy 16": "משנה תורה, הלכות טומאת צרעת ט״ז"
-            }
-        }
-    ],
-    "29": [
-        {
-            "start": 2861,
-            "end": 2876,
-            "refs": {
-                "Avodah Zarah 22a:11-40b:11": "עבודה זרה כ״ב א:י״א-מ׳ ב:י״א",
-                "Jerusalem Talmud Avodah Zarah 2:1:1-9:10": "תלמוד ירושלמי עבודה זרה ב׳:א׳:א׳-ט׳:י׳"
-            }
-        }
-    ],
-    "31": [
-        {
-            "start": 19,
-            "end": 44,
-            "refs": {
-                "Mishneh Torah, Immersion Pools 2": "משנה תורה, הלכות מקואות ב׳"
-            }
-        }
-    ],
-    "33": [
-        {
-            "start": 255,
-            "end": 282,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 4": "משנה תורה, הלכות שופר וסוכה ולולב ד׳"
-            }
-        }
-    ],
-    "34": [
-        {
-            "start": 153,
-            "end": 168,
-            "refs": {
-                "Eruvin 14": "עירובין י״ד"
-            }
-        },
-        {
-            "start": 593,
-            "end": 609,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 4": "משנה תורה, הלכות שופר וסוכה ולולב ד׳"
-            }
-        }
-    ],
-    "36": [
-        {
-            "start": 415,
-            "end": 427,
-            "refs": {
-                "Mishnah Eruvin 1": "משנה עירובין א׳",
-                "Eruvin 2a:1-17b:14": "עירובין ב׳ א:א׳-י״ז ב:י״ד"
-            }
-        }
-    ],
-    "37": [
-        {
-            "start": 1518,
-            "end": 1535,
-            "refs": {
-                "Mishneh Torah, Sabbath 16": "משנה תורה, הלכות שבת ט״ז"
-            }
-        }
-    ],
-    "38": [
-        {
-            "start": 425,
-            "end": 439,
-            "refs": {
-                "Eruvin 6": "עירובין ו׳"
-            }
-        },
-        {
-            "start": 2135,
-            "end": 2157,
-            "refs": {
-                "Mishneh Torah, Sabbath 16": "משנה תורה, הלכות שבת ט״ז"
-            }
-        }
-    ],
-    "39": [
-        {
-            "start": 138,
-            "end": 158,
-            "refs": {
-                "Mishneh Torah, Sabbath 16": "משנה תורה, הלכות שבת ט״ז"
-            }
-        },
-        {
-            "start": 277,
-            "end": 299,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 4": "משנה תורה, הלכות שופר וסוכה ולולב ד׳"
-            }
-        }
-    ],
-    "43": [
-        {
-            "start": 389,
-            "end": 404,
-            "refs": {
-                "Mishneh Torah, Tefillin, Mezuzah and the Torah Scroll 6": "משנה תורה, הלכות תפילין ומזוזה וספר תורה ו׳"
-            }
-        },
-        {
-            "start": 508,
-            "end": 524,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 4": "משנה תורה, הלכות שופר וסוכה ולולב ד׳"
-            }
-        },
-        {
-            "start": 1807,
-            "end": 1821,
-            "refs": {
-                "Mishneh Torah, Tefillin, Mezuzah and the Torah Scroll 6": "משנה תורה, הלכות תפילין ומזוזה וספר תורה ו׳"
-            }
-        },
-        {
-            "start": 2684,
-            "end": 2700,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 4": "משנה תורה, הלכות שופר וסוכה ולולב ד׳"
-            }
-        }
-    ],
-    "44": [
-        {
-            "start": 4,
-            "end": 12,
-            "refs": {
-                "Sukkah 8b": "סוכה ח׳ ב",
-                "Jerusalem Talmud Sukkah 2:1:2-2:2": "תלמוד ירושלמי סוכה ב׳:א׳:ב׳-ב׳:ב׳"
-            }
-        }
-    ],
-    "45": [
-        {
-            "start": 528,
-            "end": 553,
-            "refs": {
-                "Mishneh Torah, Tefillin, Mezuzah and the Torah Scroll 6": "משנה תורה, הלכות תפילין ומזוזה וספר תורה ו׳"
-            }
-        },
-        {
-            "start": 692,
-            "end": 709,
-            "refs": {
-                "Mishneh Torah, Tefillin, Mezuzah and the Torah Scroll 6": "משנה תורה, הלכות תפילין ומזוזה וספר תורה ו׳"
-            }
-        }
-    ],
-    "46": [
-        {
-            "start": 110,
-            "end": 139,
-            "refs": {
-                "Mishneh Torah, Tefillin, Mezuzah and the Torah Scroll 6": "משנה תורה, הלכות תפילין ומזוזה וספר תורה ו׳"
-            }
-        }
-    ],
-    "48": [
-        {
-            "start": 174,
-            "end": 192,
-            "refs": {
-                "Yoma 11": "יומא י״א"
-            }
-        },
-        {
-            "start": 672,
-            "end": 701,
-            "refs": {
-                "Mishneh Torah, Tefillin, Mezuzah and the Torah Scroll 6": "משנה תורה, הלכות תפילין ומזוזה וספר תורה ו׳"
-            }
-        }
-    ],
-    "52": [
-        {
-            "start": 141,
-            "end": 173,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 5:9": "משנה תורה, הלכות שופר וסוכה ולולב ה׳:ט׳"
-            }
-        }
-    ],
-    "54": [
-        {
-            "start": 2705,
-            "end": 2727,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 5": "משנה תורה, הלכות שופר וסוכה ולולב ה׳"
-            }
-        }
-    ],
-    "58": [
-        {
-            "start": 1184,
-            "end": 1200,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 5": "משנה תורה, הלכות שופר וסוכה ולולב ה׳"
-            }
-        }
-    ],
-    "62": [
-        {
-            "start": 92,
-            "end": 106,
-            "refs": {
-                "Mishnah Moed Katan 1": "משנה מועד קטן א׳",
-                "Moed Katan 2a:1-11a:21": "מועד קטן ב׳ א:א׳-י״א א:כ״א"
-            }
-        }
-    ],
-    "63": [
-        {
-            "start": 4,
-            "end": 13,
-            "refs": {
-                "Moed Katan 11a": "מועד קטן י״א א"
-            }
-        }
-    ],
-    "64": [
-        {
-            "start": 158,
-            "end": 182,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 5": "משנה תורה, הלכות שופר וסוכה ולולב ה׳"
-            }
-        }
-    ],
-    "69": [
-        {
-            "start": 146,
-            "end": 169,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 5": "משנה תורה, הלכות שופר וסוכה ולולב ה׳"
-            }
-        },
-        {
-            "start": 291,
-            "end": 308,
-            "refs": {
-                "Mishneh Torah, Vessels 2": "משנה תורה, הלכות כלים ב׳"
-            }
-        },
-        {
-            "start": 506,
-            "end": 512,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 5": "משנה תורה, הלכות שופר וסוכה ולולב ה׳",
-                "Mishneh Torah, Vessels 2": "משנה תורה, הלכות כלים ב׳"
-            }
-        },
-        {
-            "start": 776,
-            "end": 795,
-            "refs": {
-                "Mishnah Kelim 17": "משנה כלים י״ז"
-            }
-        },
-        {
-            "start": 1436,
-            "end": 1450,
-            "refs": {
-                "Mishnah Kelim 17": "משנה כלים י״ז"
-            }
-        }
-    ],
-    "70": [
-        {
-            "start": 202,
-            "end": 230,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 5": "משנה תורה, הלכות שופר וסוכה ולולב ה׳"
-            }
-        }
-    ],
-    "77": [
-        {
-            "start": 1944,
-            "end": 1972,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 5": "משנה תורה, הלכות שופר וסוכה ולולב ה׳"
-            }
-        }
-    ],
-    "84": [
-        {
-            "start": 533,
-            "end": 558,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 5:8": "משנה תורה, הלכות שופר וסוכה ולולב ה׳:ח׳"
-            }
-        }
-    ],
-    "87": [
-        {
-            "start": 205,
-            "end": 238,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 5:16": "משנה תורה, הלכות שופר וסוכה ולולב ה׳:ט״ז"
-            }
-        }
-    ],
-    "90": [
-        {
-            "start": 90,
-            "end": 108,
-            "refs": {
-                "Mishneh Torah, Vessels 18": "משנה תורה, הלכות כלים י״ח"
-            }
-        },
-        {
-            "start": 187,
-            "end": 192,
-            "refs": {
-                "Mishneh Torah, Vessels 18": "משנה תורה, הלכות כלים י״ח"
-            }
-        },
-        {
-            "start": 198,
-            "end": 226,
-            "refs": {
-                "Mishneh Torah, Vessels 26:10": "משנה תורה, הלכות כלים כ״ו:י׳"
-            }
-        },
-        {
-            "start": 298,
-            "end": 311,
-            "refs": {
-                "Mishneh Torah, Vessels 18:13": "משנה תורה, הלכות כלים י״ח:י״ג",
-                "Mishneh Torah, Vessels 26:13": "משנה תורה, הלכות כלים כ״ו:י״ג"
-            }
-        },
-        {
-            "start": 415,
-            "end": 423,
-            "refs": {
-                "Mishneh Torah, Vessels 18:10": "משנה תורה, הלכות כלים י״ח:י׳",
-                "Mishneh Torah, Vessels 26:10": "משנה תורה, הלכות כלים כ״ו:י׳"
-            }
-        },
-        {
-            "start": 464,
-            "end": 471,
-            "refs": {
-                "Mishneh Torah, Vessels 18": "משנה תורה, הלכות כלים י״ח"
-            }
-        },
-        {
-            "start": 621,
-            "end": 643,
-            "refs": {
-                "Mishnah Kelim 27:2": "משנה כלים כ״ז:ב׳"
-            }
-        },
-        {
-            "start": 1090,
-            "end": 1109,
-            "refs": {
-                "Mishneh Torah, Vessels 11": "משנה תורה, הלכות כלים י״א"
-            }
-        }
-    ],
-    "96": [
-        {
-            "start": 175,
-            "end": 190,
-            "refs": {
-                "Eruvin 16": "עירובין ט״ז"
-            }
-        },
-        {
-            "start": 677,
-            "end": 702,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 4": "משנה תורה, הלכות שופר וסוכה ולולב ד׳"
-            }
-        },
-        {
-            "start": 1574,
-            "end": 1589,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 4": "משנה תורה, הלכות שופר וסוכה ולולב ד׳"
-            }
-        }
-    ],
-    "97": [
-        {
-            "start": 1203,
-            "end": 1219,
-            "refs": {
-                "Mishneh Torah, Sabbath 17": "משנה תורה, הלכות שבת י״ז"
-            }
-        },
-        {
-            "start": 1396,
-            "end": 1420,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 4": "משנה תורה, הלכות שופר וסוכה ולולב ד׳"
-            }
-        }
-    ],
-    "100": [
-        {
-            "start": 72,
-            "end": 109,
-            "refs": {
-                "Mishneh Torah, Forbidden Foods 3": "משנה תורה, הלכות מאכלות אסורות ג׳"
-            }
-        }
-    ],
-    "101": [
-        {
-            "start": 2172,
-            "end": 2198,
-            "refs": {
-                "Mishneh Torah, Sabbath 17": "משנה תורה, הלכות שבת י״ז"
-            }
-        }
-    ],
-    "102": [
-        {
-            "start": 35,
-            "end": 64,
-            "refs": {
-                "Mishneh Torah, Sabbath 17:7": "משנה תורה, הלכות שבת י״ז:ז׳"
-            }
-        }
-    ],
-    "107": [
-        {
-            "start": 1659,
-            "end": 1685,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 5": "משנה תורה, הלכות שופר וסוכה ולולב ה׳"
-            }
-        }
-    ]
-}
+[
+  {
+    "line_index_1": 7,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ו׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 65,
+    "end": 87
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה ו׳",
+    "path_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה.txt",
+    "Conection Type": "linker",
+    "start": 77,
+    "end": 100
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות מלכים ומלחמות ז׳",
+    "path_2": "משנה תורה, הלכות מלכים ומלחמות.txt",
+    "Conection Type": "linker",
+    "start": 377,
+    "end": 394
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות טומאת צרעת י״ד",
+    "path_2": "משנה תורה, הלכות טומאת צרעת.txt",
+    "Conection Type": "linker",
+    "start": 399,
+    "end": 425
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב א׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 653,
+    "end": 680
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות טומאת מת ז׳",
+    "path_2": "משנה תורה, הלכות טומאת מת.txt",
+    "Conection Type": "linker",
+    "start": 2254,
+    "end": 2273
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 3,
+    "heRef_2": "עירובין ע״ח ב",
+    "path_2": "עירובין.txt",
+    "Conection Type": "linker",
+    "start": 2744,
+    "end": 2763
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שבת י״ד",
+    "path_2": "משנה תורה, הלכות שבת.txt",
+    "Conection Type": "linker",
+    "start": 1395,
+    "end": 1411
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שבת י״ג",
+    "path_2": "משנה תורה, הלכות שבת.txt",
+    "Conection Type": "linker",
+    "start": 3003,
+    "end": 3022
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ד׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 231,
+    "end": 254
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ד׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 157,
+    "end": 180
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ד׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 73,
+    "end": 93
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות כלי המקדש והעובדין בו ט׳",
+    "path_2": "משנה תורה, הלכות כלי המקדש והעובדין בו.txt",
+    "Conection Type": "linker",
+    "start": 49,
+    "end": 74
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות טומאת צרעת ט״ז",
+    "path_2": "משנה תורה, הלכות טומאת צרעת.txt",
+    "Conection Type": "linker",
+    "start": 112,
+    "end": 142
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות מקואות ב׳",
+    "path_2": "משנה תורה, הלכות מקואות.txt",
+    "Conection Type": "linker",
+    "start": 19,
+    "end": 44
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ד׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 255,
+    "end": 282
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 3,
+    "heRef_2": "עירובין י״ד",
+    "path_2": "עירובין.txt",
+    "Conection Type": "linker",
+    "start": 153,
+    "end": 168
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ד׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 593,
+    "end": 609
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שבת ט״ז",
+    "path_2": "משנה תורה, הלכות שבת.txt",
+    "Conection Type": "linker",
+    "start": 1518,
+    "end": 1535
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 3,
+    "heRef_2": "עירובין ו׳",
+    "path_2": "עירובין.txt",
+    "Conection Type": "linker",
+    "start": 425,
+    "end": 439
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שבת ט״ז",
+    "path_2": "משנה תורה, הלכות שבת.txt",
+    "Conection Type": "linker",
+    "start": 2135,
+    "end": 2157
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שבת ט״ז",
+    "path_2": "משנה תורה, הלכות שבת.txt",
+    "Conection Type": "linker",
+    "start": 138,
+    "end": 158
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ד׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 277,
+    "end": 299
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה ו׳",
+    "path_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה.txt",
+    "Conection Type": "linker",
+    "start": 389,
+    "end": 404
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ד׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 508,
+    "end": 524
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה ו׳",
+    "path_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה.txt",
+    "Conection Type": "linker",
+    "start": 1807,
+    "end": 1821
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ד׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 2684,
+    "end": 2700
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה ו׳",
+    "path_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה.txt",
+    "Conection Type": "linker",
+    "start": 528,
+    "end": 553
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה ו׳",
+    "path_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה.txt",
+    "Conection Type": "linker",
+    "start": 692,
+    "end": 709
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה ו׳",
+    "path_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה.txt",
+    "Conection Type": "linker",
+    "start": 110,
+    "end": 139
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 3,
+    "heRef_2": "יומא י״א",
+    "path_2": "יומא.txt",
+    "Conection Type": "linker",
+    "start": 174,
+    "end": 192
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה ו׳",
+    "path_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה.txt",
+    "Conection Type": "linker",
+    "start": 672,
+    "end": 701
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ה׳, ט׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 141,
+    "end": 173
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ה׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 2705,
+    "end": 2727
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ה׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 1184,
+    "end": 1200
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 3,
+    "heRef_2": "מועד קטן י״א א",
+    "path_2": "מועד קטן.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 13
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ה׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 158,
+    "end": 182
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ה׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 146,
+    "end": 169
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות כלים ב׳",
+    "path_2": "משנה תורה, הלכות כלים.txt",
+    "Conection Type": "linker",
+    "start": 291,
+    "end": 308
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 3,
+    "heRef_2": "משנה כלים י״ז",
+    "path_2": "משנה כלים.txt",
+    "Conection Type": "linker",
+    "start": 776,
+    "end": 795
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 3,
+    "heRef_2": "משנה כלים י״ז",
+    "path_2": "משנה כלים.txt",
+    "Conection Type": "linker",
+    "start": 1436,
+    "end": 1450
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ה׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 202,
+    "end": 230
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ה׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 1944,
+    "end": 1972
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ה׳, ח׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 533,
+    "end": 558
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ה׳, ט״ז",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 205,
+    "end": 238
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות כלים י״ח",
+    "path_2": "משנה תורה, הלכות כלים.txt",
+    "Conection Type": "linker",
+    "start": 90,
+    "end": 108
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות כלים י״ח",
+    "path_2": "משנה תורה, הלכות כלים.txt",
+    "Conection Type": "linker",
+    "start": 187,
+    "end": 192
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות כלים כ״ו, י׳",
+    "path_2": "משנה תורה, הלכות כלים.txt",
+    "Conection Type": "linker",
+    "start": 198,
+    "end": 226
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות כלים י״ח",
+    "path_2": "משנה תורה, הלכות כלים.txt",
+    "Conection Type": "linker",
+    "start": 464,
+    "end": 471
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 3,
+    "heRef_2": "משנה כלים כ״ז, ב׳",
+    "path_2": "משנה כלים.txt",
+    "Conection Type": "linker",
+    "start": 621,
+    "end": 643
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות כלים י״א",
+    "path_2": "משנה תורה, הלכות כלים.txt",
+    "Conection Type": "linker",
+    "start": 1090,
+    "end": 1109
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 3,
+    "heRef_2": "עירובין ט״ז",
+    "path_2": "עירובין.txt",
+    "Conection Type": "linker",
+    "start": 175,
+    "end": 190
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ד׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 677,
+    "end": 702
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ד׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 1574,
+    "end": 1589
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שבת י״ז",
+    "path_2": "משנה תורה, הלכות שבת.txt",
+    "Conection Type": "linker",
+    "start": 1203,
+    "end": 1219
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ד׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 1396,
+    "end": 1420
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות מאכלות אסורות ג׳",
+    "path_2": "משנה תורה, הלכות מאכלות אסורות.txt",
+    "Conection Type": "linker",
+    "start": 72,
+    "end": 109
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שבת י״ז",
+    "path_2": "משנה תורה, הלכות שבת.txt",
+    "Conection Type": "linker",
+    "start": 2172,
+    "end": 2198
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שבת י״ז, ז׳",
+    "path_2": "משנה תורה, הלכות שבת.txt",
+    "Conection Type": "linker",
+    "start": 35,
+    "end": 64
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ה׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 1659,
+    "end": 1685
+  }
+]

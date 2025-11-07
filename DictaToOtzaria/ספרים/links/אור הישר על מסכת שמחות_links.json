@@ -1,337 +1,290 @@
-{
-    "3": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Tractate Semachot 1": "מסכת שמחות א׳"
-            }
-        }
-    ],
-    "5": [
-        {
-            "start": 57,
-            "end": 71,
-            "refs": {
-                "Berakhot 16b": "ברכות ט״ז ב"
-            }
-        },
-        {
-            "start": 94,
-            "end": 107,
-            "refs": {
-                "Chidushei Agadot on Berakhot 16b": "חידושי אגדות על ברכות ט״ז ב"
-            }
-        }
-    ],
-    "6": [
-        {
-            "start": 137,
-            "end": 150,
-            "refs": {
-                "Gittin 40a": "גיטין מ׳ א"
-            }
-        }
-    ],
-    "7": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Tractate Semachot 2": "מסכת שמחות ב׳"
-            }
-        }
-    ],
-    "8": [
-        {
-            "start": 60,
-            "end": 75,
-            "refs": {
-                "Sanhedrin 44a": "סנהדרין מ״ד א"
-            }
-        },
-        {
-            "start": 76,
-            "end": 88,
-            "refs": {
-                "Pirkei DeRabbi Eliezer 38": "פרקי דרבי אליעזר ל״ח"
-            }
-        }
-    ],
-    "10": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Tractate Semachot 3": "מסכת שמחות ג׳"
-            }
-        }
-    ],
-    "11": [
-        {
-            "start": 29,
-            "end": 42,
-            "refs": {
-                "Moed Katan 28a": "מועד קטן כ״ח א"
-            }
-        },
-        {
-            "start": 119,
-            "end": 145,
-            "refs": {
-                "Tosafot on Shabbat 25a:6:3": "תוספות על שבת כ״ה א:ו׳:ג׳"
-            }
-        },
-        {
-            "start": 146,
-            "end": 151,
-            "refs": {
-                "Tosafot on Shabbat 25a": "תוספות על שבת כ״ה א"
-            }
-        }
-    ],
-    "12": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Tractate Semachot 4": "מסכת שמחות ד׳"
-            }
-        }
-    ],
-    "13": [
-        {
-            "start": 84,
-            "end": 112,
-            "refs": {
-                "Tosafot on Shevuot 17a:4:3": "תוספות על שבועות י״ז א:ד׳:ג׳"
-            }
-        }
-    ],
-    "14": [
-        {
-            "start": 71,
-            "end": 93,
-            "refs": {
-                "Tosafot on Nazir 54b:4:1": "תוספות על נזיר נ״ד ב:ד׳:א׳"
-            }
-        }
-    ],
-    "15": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Tractate Semachot 5": "מסכת שמחות ה׳"
-            }
-        }
-    ],
-    "18": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Tractate Semachot 6": "מסכת שמחות ו׳"
-            }
-        }
-    ],
-    "19": [
-        {
-            "start": 112,
-            "end": 131,
-            "refs": {
-                "Mishnah Middot 2:2": "משנה מדות ב׳:ב׳"
-            }
-        }
-    ],
-    "20": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Tractate Semachot 7": "מסכת שמחות ז׳"
-            }
-        }
-    ],
-    "23": [
-        {
-            "start": 109,
-            "end": 123,
-            "refs": {
-                "Yevamot 47b": "יבמות מ״ז ב"
-            }
-        },
-        {
-            "start": 128,
-            "end": 148,
-            "refs": {
-                "Jerusalem Talmud Makkot 2:6": "תלמוד ירושלמי מכות ב׳:ו׳"
-            }
-        },
-        {
-            "start": 149,
-            "end": 171,
-            "refs": {
-                "Tosafot on Sanhedrin 21a": "תוספות על סנהדרין כ״א א"
-            }
-        },
-        {
-            "start": 172,
-            "end": 188,
-            "refs": {
-                "Kiddushin 22a": "קידושין כ״ב א"
-            }
-        }
-    ],
-    "24": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Tractate Semachot 8": "מסכת שמחות ח׳",
-                "Tosafot on Sanhedrin 68b:1-75a:6": "תוספות על סנהדרין ס״ח ב:א׳-ע״ה א:ו׳"
-            }
-        }
-    ],
-    "26": [
-        {
-            "start": 105,
-            "end": 124,
-            "refs": {
-                "Sifra, Kedoshim, Chapter 11": "ספרא, קדושים, פרק יא"
-            }
-        }
-    ],
-    "28": [
-        {
-            "start": 61,
-            "end": 73,
-            "refs": {
-                "Mishnah Middot 3:4": "משנה מדות ג׳:ד׳"
-            }
-        }
-    ],
-    "29": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Tractate Semachot 9": "מסכת שמחות ט׳"
-            }
-        }
-    ],
-    "30": [
-        {
-            "start": 197,
-            "end": 213,
-            "refs": {
-                "Tosefta Bava Metzia (Lieberman) 8": "תוספתא בבא מציעא (ליברמן) ח׳",
-                "Tosefta Bava Metzia 8": "תוספתא בבא מציעא ח׳"
-            }
-        },
-        {
-            "start": 214,
-            "end": 224,
-            "refs": {
-                "Moed Katan 26": "מועד קטן כ״ו"
-            }
-        }
-    ],
-    "31": [
-        {
-            "start": 435,
-            "end": 464,
-            "refs": {
-                "Tosafot on Arakhin 19a:12:1": "תוספות על ערכין י״ט א:י״ב:א׳"
-            }
-        },
-        {
-            "start": 723,
-            "end": 731,
-            "refs": {
-                "Tractate Semachot": "מסכת שמחות"
-            }
-        },
-        {
-            "start": 1470,
-            "end": 1491,
-            "refs": {
-                "Kessef Mishneh on Mishneh Torah, Mourning 5:7": "כסף משנה על משנה תורה, הלכות אבל ה׳:ז׳"
-            }
-        }
-    ],
-    "32": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Tractate Semachot 10": "מסכת שמחות י׳",
-                "Kessef Mishneh on Mishneh Torah, Mourning 10": "כסף משנה על משנה תורה, הלכות אבל י׳"
-            }
-        }
-    ],
-    "33": [
-        {
-            "start": 47,
-            "end": 58,
-            "refs": {
-                "Mishnah Berakhot 3": "משנה ברכות ג׳",
-                "Berakhot 17b:12-26a:10": "ברכות י״ז ב:י״ב-כ״ו א:י׳"
-            }
-        }
-    ],
-    "34": [
-        {
-            "start": 4,
-            "end": 10,
-            "refs": {
-                "Tractate Semachot 11": "מסכת שמחות י״א"
-            }
-        }
-    ],
-    "37": [
-        {
-            "start": 4,
-            "end": 10,
-            "refs": {
-                "Tractate Semachot 12": "מסכת שמחות י״ב"
-            }
-        }
-    ],
-    "38": [
-        {
-            "start": 88,
-            "end": 108,
-            "refs": {
-                "Tosafot on Berakhot 18a": "תוספות על ברכות י״ח א"
-            }
-        },
-        {
-            "start": 206,
-            "end": 216,
-            "refs": {
-                "Menachot 41": "מנחות מ״א"
-            }
-        }
-    ],
-    "39": [
-        {
-            "start": 4,
-            "end": 10,
-            "refs": {
-                "Mishnah Menachot 13": "משנה מנחות י״ג",
-                "Menachot 104b:13-110a:24": "מנחות ק״ד ב:י״ג-ק״י א:כ״ד",
-                "Tractate Semachot 13": "מסכת שמחות י״ג"
-            }
-        }
-    ],
-    "41": [
-        {
-            "start": 4,
-            "end": 10,
-            "refs": {
-                "Tractate Semachot 14": "מסכת שמחות י״ד"
-            }
-        }
-    ]
-}
+[
+  {
+    "line_index_1": 3,
+    "line_index_2": 5,
+    "heRef_2": "מסכת שמחות א׳",
+    "path_2": "מסכת שמחות.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 9
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 3,
+    "heRef_2": "ברכות ט״ז ב",
+    "path_2": "ברכות.txt",
+    "Conection Type": "linker",
+    "start": 57,
+    "end": 71
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 4,
+    "heRef_2": "חידושי אגדות על ברכות ט״ז ב",
+    "path_2": "חידושי אגדות על ברכות.txt",
+    "Conection Type": "linker",
+    "start": 94,
+    "end": 107
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 3,
+    "heRef_2": "גיטין מ׳ א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "linker",
+    "start": 137,
+    "end": 150
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 5,
+    "heRef_2": "מסכת שמחות ב׳",
+    "path_2": "מסכת שמחות.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 9
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 3,
+    "heRef_2": "סנהדרין מ״ד א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "linker",
+    "start": 60,
+    "end": 75
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 3,
+    "heRef_2": "פרקי דרבי אליעזר ל״ח",
+    "path_2": "פרקי דרבי אליעזר.txt",
+    "Conection Type": "linker",
+    "start": 76,
+    "end": 88
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 5,
+    "heRef_2": "מסכת שמחות ג׳",
+    "path_2": "מסכת שמחות.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 9
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 3,
+    "heRef_2": "מועד קטן כ״ח א",
+    "path_2": "מועד קטן.txt",
+    "Conection Type": "linker",
+    "start": 29,
+    "end": 42
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 4,
+    "heRef_2": "תוספות על שבת כ״ה א, ו׳, ג׳",
+    "path_2": "תוספות על שבת.txt",
+    "Conection Type": "linker",
+    "start": 119,
+    "end": 145
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 4,
+    "heRef_2": "תוספות על שבת כ״ה א",
+    "path_2": "תוספות על שבת.txt",
+    "Conection Type": "linker",
+    "start": 146,
+    "end": 151
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 5,
+    "heRef_2": "מסכת שמחות ד׳",
+    "path_2": "מסכת שמחות.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 9
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 4,
+    "heRef_2": "תוספות על שבועות י״ז א, ד׳, ג׳",
+    "path_2": "תוספות על שבועות.txt",
+    "Conection Type": "linker",
+    "start": 84,
+    "end": 112
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 4,
+    "heRef_2": "תוספות על נזיר נ״ד ב, ד׳, א׳",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "linker",
+    "start": 71,
+    "end": 93
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 5,
+    "heRef_2": "מסכת שמחות ה׳",
+    "path_2": "מסכת שמחות.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 9
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 5,
+    "heRef_2": "מסכת שמחות ו׳",
+    "path_2": "מסכת שמחות.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 9
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 3,
+    "heRef_2": "משנה מדות ב׳, ב׳",
+    "path_2": "משנה מדות.txt",
+    "Conection Type": "linker",
+    "start": 112,
+    "end": 131
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 5,
+    "heRef_2": "מסכת שמחות ז׳",
+    "path_2": "מסכת שמחות.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 9
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 3,
+    "heRef_2": "יבמות מ״ז ב",
+    "path_2": "יבמות.txt",
+    "Conection Type": "linker",
+    "start": 109,
+    "end": 123
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 4,
+    "heRef_2": "תלמוד ירושלמי מכות ב׳, ו׳",
+    "path_2": "תלמוד ירושלמי מכות.txt",
+    "Conection Type": "linker",
+    "start": 128,
+    "end": 148
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 4,
+    "heRef_2": "תוספות על סנהדרין כ״א א",
+    "path_2": "תוספות על סנהדרין.txt",
+    "Conection Type": "linker",
+    "start": 149,
+    "end": 171
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 3,
+    "heRef_2": "קידושין כ״ב א",
+    "path_2": "קידושין.txt",
+    "Conection Type": "linker",
+    "start": 172,
+    "end": 188
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 3,
+    "heRef_2": "משנה מדות ג׳, ד׳",
+    "path_2": "משנה מדות.txt",
+    "Conection Type": "linker",
+    "start": 61,
+    "end": 73
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 5,
+    "heRef_2": "מסכת שמחות ט׳",
+    "path_2": "מסכת שמחות.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 9
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 3,
+    "heRef_2": "מועד קטן כ״ו",
+    "path_2": "מועד קטן.txt",
+    "Conection Type": "linker",
+    "start": 214,
+    "end": 224
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 4,
+    "heRef_2": "תוספות על ערכין י״ט א, י״ב, א׳",
+    "path_2": "תוספות על ערכין.txt",
+    "Conection Type": "linker",
+    "start": 435,
+    "end": 464
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 5,
+    "heRef_2": "כסף משנה על משנה תורה, הלכות אבל ה׳, ז׳",
+    "path_2": "כסף משנה על משנה תורה, הלכות אבל.txt",
+    "Conection Type": "linker",
+    "start": 1470,
+    "end": 1491
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 5,
+    "heRef_2": "מסכת שמחות י״א",
+    "path_2": "מסכת שמחות.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 10
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 5,
+    "heRef_2": "מסכת שמחות י״ב",
+    "path_2": "מסכת שמחות.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 10
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 4,
+    "heRef_2": "תוספות על ברכות י״ח א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "linker",
+    "start": 88,
+    "end": 108
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 3,
+    "heRef_2": "מנחות מ״א",
+    "path_2": "מנחות.txt",
+    "Conection Type": "linker",
+    "start": 206,
+    "end": 216
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 5,
+    "heRef_2": "מסכת שמחות י״ד",
+    "path_2": "מסכת שמחות.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 10
+  }
+]

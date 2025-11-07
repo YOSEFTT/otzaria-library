@@ -1,993 +1,758 @@
-{
-    "4": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Mishnah Berakhot 1": "משנה ברכות א׳",
-                "Berakhot 2a:1-13a:15": "ברכות ב׳ א:א׳-י״ג א:ט״ו"
-            }
-        },
-        {
-            "start": 12,
-            "end": 18,
-            "refs": {
-                "Berakhot 2a:1-13a:15": "ברכות ב׳ א:א׳-י״ג א:ט״ו",
-                "Jerusalem Talmud Berakhot 1:1:1-6:11": "תלמוד ירושלמי ברכות א׳:א׳:א׳-ו׳:י״א",
-                "Jerusalem Talmud Berakhot 1:1:2-6:11": "תלמוד ירושלמי ברכות א׳:א׳:ב׳-ו׳:י״א"
-            }
-        }
-    ],
-    "5": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Berakhot 2a": "ברכות ב׳ א",
-                "Jerusalem Talmud Berakhot 1:1:2-4": "תלמוד ירושלמי ברכות א׳:א׳:ב׳-ד׳",
-                "Jerusalem Talmud Berakhot 1:1:7-11": "תלמוד ירושלמי ברכות א׳:א׳:ז׳-י״א"
-            }
-        }
-    ],
-    "6": [
-        {
-            "start": 168,
-            "end": 170,
-            "refs": {
-                "Berakhot 2a:1-13a:15": "ברכות ב׳ א:א׳-י״ג א:ט״ו",
-                "Berakhot 13a:16-17b:11": "ברכות י״ג א:ט״ז-י״ז ב:י״א",
-                "Berakhot 17b:12-26a:10": "ברכות י״ז ב:י״ב-כ״ו א:י׳",
-                "Berakhot 26a:11-30b:13": "ברכות כ״ו א:י״א-ל׳ ב:י״ג",
-                "Berakhot 30b:14-34b:32": "ברכות ל׳ ב:י״ד-ל״ד ב:ל״ב",
-                "Berakhot 35a:1-45a:3": "ברכות ל״ה א:א׳-מ״ה א:ג׳",
-                "Berakhot 45a:4-51b:10": "ברכות מ״ה א:ד׳-נ״א ב:י׳",
-                "Berakhot 51b:11-53b:33": "ברכות נ״א ב:י״א-נ״ג ב:ל״ג",
-                "Berakhot 54a:1-64a:15": "ברכות נ״ד א:א׳-ס״ד א:ט״ו",
-                "Jerusalem Talmud Berakhot 1:1:1-6:11": "תלמוד ירושלמי ברכות א׳:א׳:א׳-ו׳:י״א",
-                "Jerusalem Talmud Berakhot 1:1:2-6:11": "תלמוד ירושלמי ברכות א׳:א׳:ב׳-ו׳:י״א",
-                "Jerusalem Talmud Berakhot 2:1:1-9:4": "תלמוד ירושלמי ברכות ב׳:א׳:א׳-ט׳:ד׳",
-                "Jerusalem Talmud Berakhot 3:1:1-6:4": "תלמוד ירושלמי ברכות ג׳:א׳:א׳-ו׳:ד׳",
-                "Jerusalem Talmud Berakhot 4:1:1-6:7": "תלמוד ירושלמי ברכות ד׳:א׳:א׳-ו׳:ז׳",
-                "Jerusalem Talmud Berakhot 5:1:1-5:3": "תלמוד ירושלמי ברכות ה׳:א׳:א׳-ה׳:ג׳",
-                "Jerusalem Talmud Berakhot 6:1:1-8:3": "תלמוד ירושלמי ברכות ו׳:א׳:א׳-ח׳:ג׳",
-                "Jerusalem Talmud Berakhot 7:1:1-5:11": "תלמוד ירושלמי ברכות ז׳:א׳:א׳-ה׳:י״א",
-                "Jerusalem Talmud Berakhot 8:1:1-8:7": "תלמוד ירושלמי ברכות ח׳:א׳:א׳-ח׳:ז׳",
-                "Jerusalem Talmud Berakhot 9:1:1-5:22": "תלמוד ירושלמי ברכות ט׳:א׳:א׳-ה׳:כ״ב"
-            }
-        },
-        {
-            "start": 348,
-            "end": 362,
-            "refs": {
-                "Berakhot 26a:11-30b:13": "ברכות כ״ו א:י״א-ל׳ ב:י״ג",
-                "Jerusalem Talmud Berakhot 4:1:1-6:7": "תלמוד ירושלמי ברכות ד׳:א׳:א׳-ו׳:ז׳"
-            }
-        },
-        {
-            "start": 1099,
-            "end": 1112,
-            "refs": {
-                "Berakhot 26a:11-30b:13": "ברכות כ״ו א:י״א-ל׳ ב:י״ג",
-                "Jerusalem Talmud Berakhot 4:1:1-6:7": "תלמוד ירושלמי ברכות ד׳:א׳:א׳-ו׳:ז׳"
-            }
-        }
-    ],
-    "19": [
-        {
-            "start": 157,
-            "end": 180,
-            "refs": {
-                "Mishneh Torah, Paschal Offering 8": "משנה תורה, הלכות קרבן פסח ח׳"
-            }
-        },
-        {
-            "start": 845,
-            "end": 861,
-            "refs": {
-                "Zevachim 47a:12-57b:12": "זבחים מ״ז א:י״ב-נ״ז ב:י״ב"
-            }
-        },
-        {
-            "start": 1631,
-            "end": 1644,
-            "refs": {
-                "Pesachim 71": "פסחים ע״א"
-            }
-        }
-    ],
-    "20": [
-        {
-            "start": 37,
-            "end": 52,
-            "refs": {
-                "Rosh Hashanah 2": "ראש השנה ב׳"
-            }
-        },
-        {
-            "start": 600,
-            "end": 607,
-            "refs": {
-                "Rashi on Rosh Hashanah 2a": "רש\"י על ראש השנה ב׳ א"
-            }
-        },
-        {
-            "start": 1187,
-            "end": 1205,
-            "refs": {
-                "Mishnah Megillah 2": "משנה מגילה ב׳",
-                "Megillah 17a:9-21a:9": "מגילה י״ז א:ט׳-כ״א א:ט׳"
-            }
-        }
-    ],
-    "22": [
-        {
-            "start": 1060,
-            "end": 1071,
-            "refs": {
-                "Berakhot 17b:12-26a:10": "ברכות י״ז ב:י״ב-כ״ו א:י׳",
-                "Jerusalem Talmud Berakhot 3:1:1-6:4": "תלמוד ירושלמי ברכות ג׳:א׳:א׳-ו׳:ד׳"
-            }
-        }
-    ],
-    "23": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Berakhot 12": "ברכות י״ב"
-            }
-        }
-    ],
-    "24": [
-        {
-            "start": 828,
-            "end": 854,
-            "refs": {
-                "Mishneh Torah, Blessings 8": "משנה תורה, הלכות ברכות ח׳"
-            }
-        }
-    ],
-    "26": [
-        {
-            "start": 1087,
-            "end": 1101,
-            "refs": {
-                "Mishneh Torah, Blessings 8": "משנה תורה, הלכות ברכות ח׳"
-            }
-        },
-        {
-            "start": 3021,
-            "end": 3045,
-            "refs": {
-                "Mishneh Torah, Blessings 8": "משנה תורה, הלכות ברכות ח׳"
-            }
-        },
-        {
-            "start": 3127,
-            "end": 3141,
-            "refs": {
-                "Mishneh Torah, Blessings 1": "משנה תורה, הלכות ברכות א׳"
-            }
-        }
-    ],
-    "31": [
-        {
-            "start": 68,
-            "end": 85,
-            "refs": {
-                "Mishneh Torah, Scroll of Esther and Hanukkah 2": "משנה תורה, הלכות מגילה וחנוכה ב׳"
-            }
-        },
-        {
-            "start": 86,
-            "end": 106,
-            "refs": {
-                "Mishneh Torah, Shofar, Sukkah and Lulav 2": "משנה תורה, הלכות שופר וסוכה ולולב ב׳"
-            }
-        },
-        {
-            "start": 167,
-            "end": 182,
-            "refs": {
-                "Rosh Hashanah 28": "ראש השנה כ״ח"
-            }
-        }
-    ],
-    "35": [
-        {
-            "start": 598,
-            "end": 612,
-            "refs": {
-                "Mishneh Torah, Scroll of Esther and Hanukkah 3": "משנה תורה, הלכות מגילה וחנוכה ג׳"
-            }
-        },
-        {
-            "start": 748,
-            "end": 758,
-            "refs": {
-                "Maggid Mishneh on Mishneh Torah, Scroll of Esther and Hanukkah 3": "מגיד משנה על משנה תורה, הלכות מגילה וחנוכה ג׳"
-            }
-        }
-    ],
-    "36": [
-        {
-            "start": 425,
-            "end": 449,
-            "refs": {
-                "Mishneh Torah, Blessings 1:20": "משנה תורה, הלכות ברכות א׳:כ׳"
-            }
-        }
-    ],
-    "48": [
-        {
-            "start": 12,
-            "end": 19,
-            "refs": {
-                "Berakhot 17b:12-26a:10": "ברכות י״ז ב:י״ב-כ״ו א:י׳",
-                "Jerusalem Talmud Berakhot 3:1:1-6:4": "תלמוד ירושלמי ברכות ג׳:א׳:א׳-ו׳:ד׳"
-            }
-        }
-    ],
-    "49": [
-        {
-            "start": 4,
-            "end": 8,
-            "refs": {
-                "Berakhot 20": "ברכות כ׳"
-            }
-        }
-    ],
-    "52": [
-        {
-            "start": 4007,
-            "end": 4038,
-            "refs": {
-                "Mishneh Torah, Scroll of Esther and Hanukkah 3": "משנה תורה, הלכות מגילה וחנוכה ג׳"
-            }
-        }
-    ],
-    "72": [
-        {
-            "start": 163,
-            "end": 187,
-            "refs": {
-                "Mishneh Torah, Tefillin, Mezuzah and the Torah Scroll 10": "משנה תורה, הלכות תפילין ומזוזה וספר תורה י׳"
-            }
-        }
-    ],
-    "77": [
-        {
-            "start": 472,
-            "end": 496,
-            "refs": {
-                "Mishneh Torah, Prayer and the Priestly Blessing 3": "משנה תורה, הלכות תפילה וברכת כהנים ג׳"
-            }
-        }
-    ],
-    "80": [
-        {
-            "start": 170,
-            "end": 183,
-            "refs": {
-                "Chullin 91": "חולין צ״א"
-            }
-        }
-    ],
-    "81": [
-        {
-            "start": 213,
-            "end": 249,
-            "refs": {
-                "Mishneh Torah, Daily Offerings and Additional Offerings 1": "משנה תורה, הלכות תמידים ומוספין א׳"
-            }
-        }
-    ],
-    "93": [
-        {
-            "start": 1416,
-            "end": 1426,
-            "refs": {
-                "Berakhot 54a:1-64a:15": "ברכות נ״ד א:א׳-ס״ד א:ט״ו",
-                "Jerusalem Talmud Berakhot 9:1:1-5:22": "תלמוד ירושלמי ברכות ט׳:א׳:א׳-ה׳:כ״ב"
-            }
-        }
-    ],
-    "107": [
-        {
-            "start": 1573,
-            "end": 1586,
-            "refs": {
-                "Pesachim 103": "פסחים ק״ג"
-            }
-        }
-    ],
-    "110": [
-        {
-            "start": 2220,
-            "end": 2235,
-            "refs": {
-                "Yoma 73b:13-88a:12": "יומא ע״ג ב:י״ג-פ״ח א:י״ב"
-            }
-        },
-        {
-            "start": 2616,
-            "end": 2650,
-            "refs": {
-                "Mishneh Torah, Rest on the Tenth of Tishrei 2": "משנה תורה, הלכות שביתת עשור ב׳"
-            }
-        }
-    ],
-    "123": [
-        {
-            "start": 148,
-            "end": 170,
-            "refs": {
-                "Mishneh Torah, Blessings 3": "משנה תורה, הלכות ברכות ג׳"
-            }
-        }
-    ],
-    "125": [
-        {
-            "start": 2140,
-            "end": 2169,
-            "refs": {
-                "Mishneh Torah, Blessings 3": "משנה תורה, הלכות ברכות ג׳"
-            }
-        }
-    ],
-    "128": [
-        {
-            "start": 1849,
-            "end": 1872,
-            "refs": {
-                "Mishneh Torah, Blessings 3": "משנה תורה, הלכות ברכות ג׳"
-            }
-        },
-        {
-            "start": 1975,
-            "end": 1994,
-            "refs": {
-                "Mishneh Torah, Leavened and Unleavened Bread 6": "משנה תורה, הלכות חמץ ומצה ו׳"
-            }
-        }
-    ],
-    "129": [
-        {
-            "start": 13,
-            "end": 24,
-            "refs": {
-                "Berakhot 51b:11-53b:33": "ברכות נ״א ב:י״א-נ״ג ב:ל״ג",
-                "Pesachim 65b:10-73b:16": "פסחים ס״ה ב:י׳-ע״ג ב:ט״ז"
-            }
-        },
-        {
-            "start": 473,
-            "end": 483,
-            "refs": {
-                "Pesachim 21a:8-42a:14": "פסחים כ״א א:ח׳-מ״ב א:י״ד",
-                "Jerusalem Talmud Pesachim 2:1:1-7:6": "תלמוד ירושלמי פסחים ב׳:א׳:א׳-ז׳:ו׳"
-            }
-        },
-        {
-            "start": 1817,
-            "end": 1837,
-            "refs": {
-                "Mishneh Torah, Leavened and Unleavened Bread 6": "משנה תורה, הלכות חמץ ומצה ו׳"
-            }
-        }
-    ],
-    "134": [
-        {
-            "start": 1746,
-            "end": 1753,
-            "refs": {
-                "Pesachim 39": "פסחים ל״ט"
-            }
-        }
-    ],
-    "136": [
-        {
-            "start": 216,
-            "end": 237,
-            "refs": {
-                "Mishneh Torah, Blessings 8": "משנה תורה, הלכות ברכות ח׳"
-            }
-        }
-    ],
-    "139": [
-        {
-            "start": 558,
-            "end": 573,
-            "refs": {
-                "Mishneh Torah, Heave Offerings 5": "משנה תורה, הלכות תרומות ה׳"
-            }
-        },
-        {
-            "start": 1023,
-            "end": 1034,
-            "refs": {
-                "Mishnah Terumot 5": "משנה תרומות ה׳"
-            }
-        }
-    ],
-    "140": [
-        {
-            "start": 1689,
-            "end": 1703,
-            "refs": {
-                "Mishneh Torah, Blessings 7": "משנה תורה, הלכות ברכות ז׳"
-            }
-        }
-    ],
-    "143": [
-        {
-            "start": 102,
-            "end": 127,
-            "refs": {
-                "Mishneh Torah, Blessings 8": "משנה תורה, הלכות ברכות ח׳"
-            }
-        }
-    ],
-    "147": [
-        {
-            "start": 160,
-            "end": 182,
-            "refs": {
-                "Mishneh Torah, Blessings 1": "משנה תורה, הלכות ברכות א׳"
-            }
-        }
-    ],
-    "149": [
-        {
-            "start": 694,
-            "end": 704,
-            "refs": {
-                "Berakhot 54a:1-64a:15": "ברכות נ״ד א:א׳-ס״ד א:ט״ו",
-                "Jerusalem Talmud Berakhot 9:1:1-5:22": "תלמוד ירושלמי ברכות ט׳:א׳:א׳-ה׳:כ״ב"
-            }
-        }
-    ],
-    "150": [
-        {
-            "start": 287,
-            "end": 310,
-            "refs": {
-                "Mishneh Torah, Blessings 1": "משנה תורה, הלכות ברכות א׳"
-            }
-        },
-        {
-            "start": 629,
-            "end": 657,
-            "refs": {
-                "Mishneh Torah, Foundations of the Torah 6": "משנה תורה, הלכות יסודי התורה ו׳"
-            }
-        }
-    ],
-    "153": [
-        {
-            "start": 1161,
-            "end": 1179,
-            "refs": {
-                "Mishneh Torah, Blessings 8": "משנה תורה, הלכות ברכות ח׳"
-            }
-        }
-    ],
-    "155": [
-        {
-            "start": 1194,
-            "end": 1215,
-            "refs": {
-                "Mishneh Torah, Human Dispositions 2": "משנה תורה, הלכות דעות ב׳"
-            }
-        }
-    ],
-    "161": [
-        {
-            "start": 54,
-            "end": 75,
-            "refs": {
-                "Mishneh Torah, Blessings 3": "משנה תורה, הלכות ברכות ג׳"
-            }
-        },
-        {
-            "start": 1695,
-            "end": 1701,
-            "refs": {
-                "Mishneh Torah, Blessings 3": "משנה תורה, הלכות ברכות ג׳"
-            }
-        }
-    ],
-    "162": [
-        {
-            "start": 3,
-            "end": 5,
-            "refs": {
-                "Mishneh Torah, Blessings 3": "משנה תורה, הלכות ברכות ג׳"
-            }
-        },
-        {
-            "start": 661,
-            "end": 683,
-            "refs": {
-                "Mishneh Torah, Blessings 6": "משנה תורה, הלכות ברכות ו׳"
-            }
-        }
-    ],
-    "163": [
-        {
-            "start": 229,
-            "end": 242,
-            "refs": {
-                "Chullin 107": "חולין ק״ז"
-            }
-        },
-        {
-            "start": 608,
-            "end": 618,
-            "refs": {
-                "Tosafot on Pesachim 99b:1-121b:3": "תוספות על פסחים צ״ט ב:א׳-קכ״א ב:ג׳"
-            }
-        }
-    ],
-    "171": [
-        {
-            "start": 2812,
-            "end": 2823,
-            "refs": {
-                "Mishnah Sukkah 3": "משנה סוכה ג׳",
-                "Sukkah 29b:4-42b:4": "סוכה כ״ט ב:ד׳-מ״ב ב:ד׳"
-            }
-        }
-    ],
-    "191": [
-        {
-            "start": 2710,
-            "end": 2724,
-            "refs": {
-                "Berakhot 51b:11-53b:33": "ברכות נ״א ב:י״א-נ״ג ב:ל״ג",
-                "Pesachim 65b:10-73b:16": "פסחים ס״ה ב:י׳-ע״ג ב:ט״ז",
-                "Jerusalem Talmud Berakhot 8:1:1-8:7": "תלמוד ירושלמי ברכות ח׳:א׳:א׳-ח׳:ז׳",
-                "Jerusalem Talmud Demai 2:1:1-5:4": "תלמוד ירושלמי דמאי ב׳:א׳:א׳-ה׳:ד׳",
-                "Jerusalem Talmud Pesachim 6:1:1-6:4": "תלמוד ירושלמי פסחים ו׳:א׳:א׳-ו׳:ד׳"
-            }
-        }
-    ],
-    "192": [
-        {
-            "start": 696,
-            "end": 711,
-            "refs": {
-                "Mishneh Torah, Heave Offerings 3": "משנה תורה, הלכות תרומות ג׳"
-            }
-        },
-        {
-            "start": 923,
-            "end": 941,
-            "refs": {
-                "Mishneh Torah, Heave Offerings 3": "משנה תורה, הלכות תרומות ג׳"
-            }
-        }
-    ],
-    "196": [
-        {
-            "start": 169,
-            "end": 193,
-            "refs": {
-                "Mishneh Torah, Forbidden Intercourse 13": "משנה תורה, הלכות איסורי ביאה י״ג"
-            }
-        },
-        {
-            "start": 1148,
-            "end": 1179,
-            "refs": {
-                "Mishneh Torah, Forbidden Intercourse 13": "משנה תורה, הלכות איסורי ביאה י״ג"
-            }
-        },
-        {
-            "start": 1490,
-            "end": 1502,
-            "refs": {
-                "Mishnah Keritot 4": "משנה כריתות ד׳",
-                "Keritot 17a:26-20b:6": "כריתות י״ז א:כ״ו-כ׳ ב:ו׳"
-            }
-        }
-    ],
-    "197": [
-        {
-            "start": 102,
-            "end": 126,
-            "refs": {
-                "Mishneh Torah, Slaves 9": "משנה תורה, הלכות עבדים ט׳"
-            }
-        },
-        {
-            "start": 540,
-            "end": 550,
-            "refs": {
-                "Gittin 32a:3-48b:5": "גיטין ל״ב א:ג׳-מ״ח ב:ה׳",
-                "Jerusalem Talmud Gittin 4:1:1-9:5": "תלמוד ירושלמי גיטין ד׳:א׳:א׳-ט׳:ה׳"
-            }
-        }
-    ],
-    "200": [
-        {
-            "start": 206,
-            "end": 235,
-            "refs": {
-                "Mishneh Torah, Blessings 5": "משנה תורה, הלכות ברכות ה׳"
-            }
-        }
-    ],
-    "204": [
-        {
-            "start": 351,
-            "end": 373,
-            "refs": {
-                "Berakhot 40b": "ברכות מ׳ ב"
-            }
-        },
-        {
-            "start": 3106,
-            "end": 3118,
-            "refs": {
-                "Mishnah Sheviit 10": "משנה שביעית י׳"
-            }
-        },
-        {
-            "start": 3156,
-            "end": 3161,
-            "refs": {
-                "Mishnah Sheviit 10": "משנה שביעית י׳",
-                "Mishnah Gittin": "משנה גיטין"
-            }
-        },
-        {
-            "start": 3220,
-            "end": 3233,
-            "refs": {
-                "Gittin 36": "גיטין ל״ו"
-            }
-        },
-        {
-            "start": 5683,
-            "end": 5706,
-            "refs": {
-                "Tosafot on Berakhot 35a:1-45a:3": "תוספות על ברכות ל״ה א:א׳-מ״ה א:ג׳"
-            }
-        }
-    ],
-    "205": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Tosafot on Berakhot 49": "תוספות על ברכות מ״ט"
-            }
-        }
-    ],
-    "206": [
-        {
-            "start": 78,
-            "end": 101,
-            "refs": {
-                "Mishneh Torah, Blessings 2": "משנה תורה, הלכות ברכות ב׳"
-            }
-        }
-    ],
-    "216": [
-        {
-            "start": 154,
-            "end": 175,
-            "refs": {
-                "Mishneh Torah, Blessings 5": "משנה תורה, הלכות ברכות ה׳"
-            }
-        }
-    ],
-    "219": [
-        {
-            "start": 93,
-            "end": 114,
-            "refs": {
-                "Mishneh Torah, Blessings 8": "משנה תורה, הלכות ברכות ח׳"
-            }
-        },
-        {
-            "start": 814,
-            "end": 829,
-            "refs": {
-                "Mishneh Torah, Blessings 11": "משנה תורה, הלכות ברכות י״א"
-            }
-        }
-    ],
-    "222": [
-        {
-            "start": 12,
-            "end": 21,
-            "refs": {
-                "Berakhot 51b:11-53b:33": "ברכות נ״א ב:י״א-נ״ג ב:ל״ג",
-                "Pesachim 65b:10-73b:16": "פסחים ס״ה ב:י׳-ע״ג ב:ט״ז",
-                "Jerusalem Talmud Berakhot 8:1:1-8:7": "תלמוד ירושלמי ברכות ח׳:א׳:א׳-ח׳:ז׳",
-                "Jerusalem Talmud Demai 2:1:1-5:4": "תלמוד ירושלמי דמאי ב׳:א׳:א׳-ה׳:ד׳",
-                "Jerusalem Talmud Pesachim 6:1:1-6:4": "תלמוד ירושלמי פסחים ו׳:א׳:א׳-ו׳:ד׳"
-            }
-        }
-    ],
-    "226": [
-        {
-            "start": 4,
-            "end": 9,
-            "refs": {
-                "Shabbat 52": "שבת נ״ב"
-            }
-        }
-    ],
-    "227": [
-        {
-            "start": 43,
-            "end": 66,
-            "refs": {
-                "Mishneh Torah, Blessings 6": "משנה תורה, הלכות ברכות ו׳"
-            }
-        },
-        {
-            "start": 167,
-            "end": 179,
-            "refs": {
-                "Chullin 103b:16-117b:5": "חולין ק״ג ב:ט״ז-קי״ז ב:ה׳"
-            }
-        }
-    ],
-    "228": [
-        {
-            "start": 904,
-            "end": 920,
-            "refs": {
-                "Mishneh Torah, Sabbath 29": "משנה תורה, הלכות שבת כ״ט"
-            }
-        },
-        {
-            "start": 1449,
-            "end": 1465,
-            "refs": {
-                "Mishneh Torah, Blessings 9": "משנה תורה, הלכות ברכות ט׳"
-            }
-        }
-    ],
-    "230": [
-        {
-            "start": 390,
-            "end": 409,
-            "refs": {
-                "Berakhot 51b:11-53b:33": "ברכות נ״א ב:י״א-נ״ג ב:ל״ג"
-            }
-        },
-        {
-            "start": 625,
-            "end": 636,
-            "refs": {
-                "Sanhedrin 84b:1-90a:14": "סנהדרין פ״ד ב:א׳-צ׳ א:י״ד",
-                "Jerusalem Talmud Sanhedrin 10:1:1-8:4": "תלמוד ירושלמי סנהדרין י׳:א׳:א׳-ח׳:ד׳"
-            }
-        }
-    ],
-    "233": [
-        {
-            "start": 501,
-            "end": 513,
-            "refs": {
-                "Shabbat 115a:3-122b:3": "שבת קט״ו א:ג׳-קכ״ב ב:ג׳",
-                "Jerusalem Talmud Shabbat 16:1:1-9:2": "תלמוד ירושלמי שבת ט״ז:א׳:א׳-ט׳:ב׳"
-            }
-        }
-    ],
-    "236": [
-        {
-            "start": 365,
-            "end": 391,
-            "refs": {
-                "Mishneh Torah, Sabbath 29": "משנה תורה, הלכות שבת כ״ט"
-            }
-        }
-    ],
-    "240": [
-        {
-            "start": 56,
-            "end": 78,
-            "refs": {
-                "Mishneh Torah, Sabbath 29": "משנה תורה, הלכות שבת כ״ט"
-            }
-        }
-    ],
-    "242": [
-        {
-            "start": 189,
-            "end": 206,
-            "refs": {
-                "Mishneh Torah, Blessings 2": "משנה תורה, הלכות ברכות ב׳"
-            }
-        }
-    ],
-    "245": [
-        {
-            "start": 72,
-            "end": 82,
-            "refs": {
-                "Berakhot 54a:1-64a:15": "ברכות נ״ד א:א׳-ס״ד א:ט״ו",
-                "Jerusalem Talmud Berakhot 9:1:1-5:22": "תלמוד ירושלמי ברכות ט׳:א׳:א׳-ה׳:כ״ב"
-            }
-        },
-        {
-            "start": 380,
-            "end": 401,
-            "refs": {
-                "Eruvin 40b": "עירובין מ׳ ב"
-            }
-        },
-        {
-            "start": 800,
-            "end": 810,
-            "refs": {
-                "Menachot 38a:4-52b:11": "מנחות ל״ח א:ד׳-נ״ב ב:י״א"
-            }
-        },
-        {
-            "start": 966,
-            "end": 972,
-            "refs": {
-                "Menachot 38a:4-52b:11": "מנחות ל״ח א:ד׳-נ״ב ב:י״א"
-            }
-        },
-        {
-            "start": 1149,
-            "end": 1154,
-            "refs": {
-                "Tosafot on Menachot 38a": "תוספות על מנחות ל״ח א"
-            }
-        },
-        {
-            "start": 1512,
-            "end": 1518,
-            "refs": {
-                "Menachot 38a:4-52b:11": "מנחות ל״ח א:ד׳-נ״ב ב:י״א"
-            }
-        },
-        {
-            "start": 2255,
-            "end": 2266,
-            "refs": {
-                "Mishnah Berakhot 2": "משנה ברכות ב׳",
-                "Berakhot 13a:16-17b:11": "ברכות י״ג א:ט״ז-י״ז ב:י״א"
-            }
-        },
-        {
-            "start": 2866,
-            "end": 2877,
-            "refs": {
-                "Berakhot 54a:1-64a:15": "ברכות נ״ד א:א׳-ס״ד א:ט״ו",
-                "Jerusalem Talmud Berakhot 9:1:1-5:22": "תלמוד ירושלמי ברכות ט׳:א׳:א׳-ה׳:כ״ב"
-            }
-        },
-        {
-            "start": 3105,
-            "end": 3115,
-            "refs": {
-                "Berakhot 54a:1-64a:15": "ברכות נ״ד א:א׳-ס״ד א:ט״ו",
-                "Jerusalem Talmud Berakhot 9:1:1-5:22": "תלמוד ירושלמי ברכות ט׳:א׳:א׳-ה׳:כ״ב"
-            }
-        },
-        {
-            "start": 3179,
-            "end": 3188,
-            "refs": {
-                "Berakhot 54a:1-64a:15": "ברכות נ״ד א:א׳-ס״ד א:ט״ו",
-                "Jerusalem Talmud Berakhot 9:1:1-5:22": "תלמוד ירושלמי ברכות ט׳:א׳:א׳-ה׳:כ״ב"
-            }
-        },
-        {
-            "start": 6534,
-            "end": 6552,
-            "refs": {
-                "Menachot 75": "מנחות ע״ה"
-            }
-        },
-        {
-            "start": 6792,
-            "end": 6813,
-            "refs": {
-                "Menachot 51b": "מנחות נ״א ב"
-            }
-        },
-        {
-            "start": 6858,
-            "end": 6873,
-            "refs": {
-                "Rashi on Menachot 51b:7:3": "רש\"י על מנחות נ״א ב:ז׳:ג׳"
-            }
-        }
-    ],
-    "246": [
-        {
-            "start": 1197,
-            "end": 1212,
-            "refs": {
-                "Bava Kamma 93b:1-111a:21": "בבא קמא צ״ג ב:א׳-קי״א א:כ״א",
-                "Jerusalem Talmud Bava Kamma 9:1:1-10:2": "תלמוד ירושלמי בבא קמא ט׳:א׳:א׳-י׳:ב׳"
-            }
-        },
-        {
-            "start": 1676,
-            "end": 1691,
-            "refs": {
-                "Eruvin 26b:17-41b:5": "עירובין כ״ו ב:י״ז-מ״א ב:ה׳",
-                "Jerusalem Talmud Eruvin 3:1:1-10:2": "תלמוד ירושלמי עירובין ג׳:א׳:א׳-י׳:ב׳"
-            }
-        },
-        {
-            "start": 2560,
-            "end": 2574,
-            "refs": {
-                "Eruvin 26b:17-41b:5": "עירובין כ״ו ב:י״ז-מ״א ב:ה׳",
-                "Jerusalem Talmud Eruvin 3:1:1-10:2": "תלמוד ירושלמי עירובין ג׳:א׳:א׳-י׳:ב׳"
-            }
-        }
-    ],
-    "248": [
-        {
-            "start": 554,
-            "end": 563,
-            "refs": {
-                "Mishnah Parah 8": "משנה פרה ח׳"
-            }
-        },
-        {
-            "start": 564,
-            "end": 577,
-            "refs": {
-                "Mishnah Mikvaot 5": "משנה מקואות ה׳"
-            }
-        }
-    ],
-    "250": [
-        {
-            "start": 117,
-            "end": 128,
-            "refs": {
-                "Berakhot 54a:1-64a:15": "ברכות נ״ד א:א׳-ס״ד א:ט״ו",
-                "Jerusalem Talmud Berakhot 9:1:1-5:22": "תלמוד ירושלמי ברכות ט׳:א׳:א׳-ה׳:כ״ב"
-            }
-        }
-    ],
-    "251": [
-        {
-            "start": 57,
-            "end": 79,
-            "refs": {
-                "Mishneh Torah, Blessings 10": "משנה תורה, הלכות ברכות י׳"
-            }
-        }
-    ],
-    "253": [
-        {
-            "start": 62,
-            "end": 74,
-            "refs": {
-                "Yoma 35": "יומא ל״ה"
-            }
-        },
-        {
-            "start": 1391,
-            "end": 1407,
-            "refs": {
-                "Sotah 32a:5-42a:7": "סוטה ל״ב א:ה׳-מ״ב א:ז׳",
-                "Jerusalem Talmud Sotah 7:1:1-8:2": "תלמוד ירושלמי סוטה ז׳:א׳:א׳-ח׳:ב׳"
-            }
-        },
-        {
-            "start": 1930,
-            "end": 1945,
-            "refs": {
-                "Mishneh Torah, Fasts 4": "משנה תורה, הלכות תעניות ד׳"
-            }
-        }
-    ]
-}
+[
+  {
+    "line_index_1": 19,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות קרבן פסח ח׳",
+    "path_2": "משנה תורה, הלכות קרבן פסח.txt",
+    "Conection Type": "linker",
+    "start": 157,
+    "end": 180
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 1644,
+    "heRef_2": "זבחים מ״ז א, י״ב-נ״ז ב, י״ב",
+    "path_2": "זבחים.txt",
+    "Conection Type": "linker",
+    "start": 845,
+    "end": 861
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 3,
+    "heRef_2": "פסחים ע״א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "linker",
+    "start": 1631,
+    "end": 1644
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 3,
+    "heRef_2": "ראש השנה ב׳",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": "linker",
+    "start": 37,
+    "end": 52
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 4,
+    "heRef_2": "רש\"י על ראש השנה ב׳ א",
+    "path_2": "רשי על ראש השנה.txt",
+    "Conection Type": "linker",
+    "start": 600,
+    "end": 607
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 3,
+    "heRef_2": "ברכות י״ב",
+    "path_2": "ברכות.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 9
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות ח׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 828,
+    "end": 854
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות ח׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 1087,
+    "end": 1101
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות ח׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 3021,
+    "end": 3045
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות א׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 3127,
+    "end": 3141
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות מגילה וחנוכה ב׳",
+    "path_2": "משנה תורה, הלכות מגילה וחנוכה.txt",
+    "Conection Type": "linker",
+    "start": 68,
+    "end": 85
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ב׳",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "linker",
+    "start": 86,
+    "end": 106
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 3,
+    "heRef_2": "ראש השנה כ״ח",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": "linker",
+    "start": 167,
+    "end": 182
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות מגילה וחנוכה ג׳",
+    "path_2": "משנה תורה, הלכות מגילה וחנוכה.txt",
+    "Conection Type": "linker",
+    "start": 598,
+    "end": 612
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 5,
+    "heRef_2": "מגיד משנה על משנה תורה, הלכות מגילה וחנוכה ג׳",
+    "path_2": "מגיד משנה על משנה תורה, הלכות מגילה וחנוכה.txt",
+    "Conection Type": "linker",
+    "start": 748,
+    "end": 758
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות א׳, כ׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 425,
+    "end": 449
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 3,
+    "heRef_2": "ברכות כ׳",
+    "path_2": "ברכות.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 8
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות מגילה וחנוכה ג׳",
+    "path_2": "משנה תורה, הלכות מגילה וחנוכה.txt",
+    "Conection Type": "linker",
+    "start": 4007,
+    "end": 4038
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה י׳",
+    "path_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה.txt",
+    "Conection Type": "linker",
+    "start": 163,
+    "end": 187
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות תפילה וברכת כהנים ג׳",
+    "path_2": "משנה תורה, הלכות תפילה וברכת כהנים.txt",
+    "Conection Type": "linker",
+    "start": 472,
+    "end": 496
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 3,
+    "heRef_2": "חולין צ״א",
+    "path_2": "חולין.txt",
+    "Conection Type": "linker",
+    "start": 170,
+    "end": 183
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות תמידים ומוספין א׳",
+    "path_2": "משנה תורה, הלכות תמידים ומוספין.txt",
+    "Conection Type": "linker",
+    "start": 213,
+    "end": 249
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 3,
+    "heRef_2": "פסחים ק״ג",
+    "path_2": "פסחים.txt",
+    "Conection Type": "linker",
+    "start": 1573,
+    "end": 1586
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 2003,
+    "heRef_2": "יומא ע״ג ב, י״ג-פ״ח א, י״ב",
+    "path_2": "יומא.txt",
+    "Conection Type": "linker",
+    "start": 2220,
+    "end": 2235
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שביתת עשור ב׳",
+    "path_2": "משנה תורה, הלכות שביתת עשור.txt",
+    "Conection Type": "linker",
+    "start": 2616,
+    "end": 2650
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות ג׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 148,
+    "end": 170
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות ג׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 2140,
+    "end": 2169
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות ג׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 1849,
+    "end": 1872
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות חמץ ומצה ו׳",
+    "path_2": "משנה תורה, הלכות חמץ ומצה.txt",
+    "Conection Type": "linker",
+    "start": 1975,
+    "end": 1994
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות חמץ ומצה ו׳",
+    "path_2": "משנה תורה, הלכות חמץ ומצה.txt",
+    "Conection Type": "linker",
+    "start": 1817,
+    "end": 1837
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 3,
+    "heRef_2": "פסחים ל״ט",
+    "path_2": "פסחים.txt",
+    "Conection Type": "linker",
+    "start": 1746,
+    "end": 1753
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות ח׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 216,
+    "end": 237
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות תרומות ה׳",
+    "path_2": "משנה תורה, הלכות תרומות.txt",
+    "Conection Type": "linker",
+    "start": 558,
+    "end": 573
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 3,
+    "heRef_2": "משנה תרומות ה׳",
+    "path_2": "משנה תרומות.txt",
+    "Conection Type": "linker",
+    "start": 1023,
+    "end": 1034
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות ז׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 1689,
+    "end": 1703
+  },
+  {
+    "line_index_1": 143,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות ח׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 102,
+    "end": 127
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות א׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 160,
+    "end": 182
+  },
+  {
+    "line_index_1": 150,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות א׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 287,
+    "end": 310
+  },
+  {
+    "line_index_1": 150,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות יסודי התורה ו׳",
+    "path_2": "משנה תורה, הלכות יסודי התורה.txt",
+    "Conection Type": "linker",
+    "start": 629,
+    "end": 657
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות ח׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 1161,
+    "end": 1179
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות דעות ב׳",
+    "path_2": "משנה תורה, הלכות דעות.txt",
+    "Conection Type": "linker",
+    "start": 1194,
+    "end": 1215
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות ג׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 54,
+    "end": 75
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות ג׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 1695,
+    "end": 1701
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות ג׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 3,
+    "end": 5
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות ו׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 661,
+    "end": 683
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 3,
+    "heRef_2": "חולין ק״ז",
+    "path_2": "חולין.txt",
+    "Conection Type": "linker",
+    "start": 229,
+    "end": 242
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 1054,
+    "heRef_2": "תוספות על פסחים צ״ט ב, א׳-קכ״א ב, ג׳",
+    "path_2": "תוספות על פסחים.txt",
+    "Conection Type": "linker",
+    "start": 608,
+    "end": 618
+  },
+  {
+    "line_index_1": 192,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות תרומות ג׳",
+    "path_2": "משנה תורה, הלכות תרומות.txt",
+    "Conection Type": "linker",
+    "start": 696,
+    "end": 711
+  },
+  {
+    "line_index_1": 192,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות תרומות ג׳",
+    "path_2": "משנה תורה, הלכות תרומות.txt",
+    "Conection Type": "linker",
+    "start": 923,
+    "end": 941
+  },
+  {
+    "line_index_1": 196,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות איסורי ביאה י״ג",
+    "path_2": "משנה תורה, הלכות איסורי ביאה.txt",
+    "Conection Type": "linker",
+    "start": 169,
+    "end": 193
+  },
+  {
+    "line_index_1": 196,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות איסורי ביאה י״ג",
+    "path_2": "משנה תורה, הלכות איסורי ביאה.txt",
+    "Conection Type": "linker",
+    "start": 1148,
+    "end": 1179
+  },
+  {
+    "line_index_1": 197,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות עבדים ט׳",
+    "path_2": "משנה תורה, הלכות עבדים.txt",
+    "Conection Type": "linker",
+    "start": 102,
+    "end": 126
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות ה׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 206,
+    "end": 235
+  },
+  {
+    "line_index_1": 204,
+    "line_index_2": 3,
+    "heRef_2": "ברכות מ׳ ב",
+    "path_2": "ברכות.txt",
+    "Conection Type": "linker",
+    "start": 351,
+    "end": 373
+  },
+  {
+    "line_index_1": 204,
+    "line_index_2": 3,
+    "heRef_2": "משנה שביעית י׳",
+    "path_2": "משנה שביעית.txt",
+    "Conection Type": "linker",
+    "start": 3106,
+    "end": 3118
+  },
+  {
+    "line_index_1": 204,
+    "line_index_2": 3,
+    "heRef_2": "גיטין ל״ו",
+    "path_2": "גיטין.txt",
+    "Conection Type": "linker",
+    "start": 3220,
+    "end": 3233
+  },
+  {
+    "line_index_1": 204,
+    "line_index_2": 331,
+    "heRef_2": "תוספות על ברכות ל״ה א, א׳-מ״ה א, ג׳",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "linker",
+    "start": 5683,
+    "end": 5706
+  },
+  {
+    "line_index_1": 205,
+    "line_index_2": 4,
+    "heRef_2": "תוספות על ברכות מ״ט",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 9
+  },
+  {
+    "line_index_1": 206,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות ב׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 78,
+    "end": 101
+  },
+  {
+    "line_index_1": 216,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות ה׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 154,
+    "end": 175
+  },
+  {
+    "line_index_1": 219,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות ח׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 93,
+    "end": 114
+  },
+  {
+    "line_index_1": 219,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות י״א",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 814,
+    "end": 829
+  },
+  {
+    "line_index_1": 226,
+    "line_index_2": 3,
+    "heRef_2": "שבת נ״ב",
+    "path_2": "שבת.txt",
+    "Conection Type": "linker",
+    "start": 4,
+    "end": 9
+  },
+  {
+    "line_index_1": 227,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות ו׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 43,
+    "end": 66
+  },
+  {
+    "line_index_1": 227,
+    "line_index_2": 3199,
+    "heRef_2": "חולין ק״ג ב, ט״ז-קי״ז ב, ה׳",
+    "path_2": "חולין.txt",
+    "Conection Type": "linker",
+    "start": 167,
+    "end": 179
+  },
+  {
+    "line_index_1": 228,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שבת כ״ט",
+    "path_2": "משנה תורה, הלכות שבת.txt",
+    "Conection Type": "linker",
+    "start": 904,
+    "end": 920
+  },
+  {
+    "line_index_1": 228,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות ט׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 1449,
+    "end": 1465
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 2290,
+    "heRef_2": "ברכות נ״א ב, י״א-נ״ג ב, ל״ג",
+    "path_2": "ברכות.txt",
+    "Conection Type": "linker",
+    "start": 390,
+    "end": 409
+  },
+  {
+    "line_index_1": 236,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שבת כ״ט",
+    "path_2": "משנה תורה, הלכות שבת.txt",
+    "Conection Type": "linker",
+    "start": 365,
+    "end": 391
+  },
+  {
+    "line_index_1": 240,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות שבת כ״ט",
+    "path_2": "משנה תורה, הלכות שבת.txt",
+    "Conection Type": "linker",
+    "start": 56,
+    "end": 78
+  },
+  {
+    "line_index_1": 242,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות ב׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 189,
+    "end": 206
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 3,
+    "heRef_2": "עירובין מ׳ ב",
+    "path_2": "עירובין.txt",
+    "Conection Type": "linker",
+    "start": 380,
+    "end": 401
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 1268,
+    "heRef_2": "מנחות ל״ח א, ד׳-נ״ב ב, י״א",
+    "path_2": "מנחות.txt",
+    "Conection Type": "linker",
+    "start": 800,
+    "end": 810
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 1268,
+    "heRef_2": "מנחות ל״ח א, ד׳-נ״ב ב, י״א",
+    "path_2": "מנחות.txt",
+    "Conection Type": "linker",
+    "start": 966,
+    "end": 972
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 4,
+    "heRef_2": "תוספות על מנחות ל״ח א",
+    "path_2": "תוספות על מנחות.txt",
+    "Conection Type": "linker",
+    "start": 1149,
+    "end": 1154
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 1268,
+    "heRef_2": "מנחות ל״ח א, ד׳-נ״ב ב, י״א",
+    "path_2": "מנחות.txt",
+    "Conection Type": "linker",
+    "start": 1512,
+    "end": 1518
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 3,
+    "heRef_2": "מנחות ע״ה",
+    "path_2": "מנחות.txt",
+    "Conection Type": "linker",
+    "start": 6534,
+    "end": 6552
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 3,
+    "heRef_2": "מנחות נ״א ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": "linker",
+    "start": 6792,
+    "end": 6813
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 4,
+    "heRef_2": "רש\"י על מנחות נ״א ב, ז׳, ג׳",
+    "path_2": "רשי על מנחות.txt",
+    "Conection Type": "linker",
+    "start": 6858,
+    "end": 6873
+  },
+  {
+    "line_index_1": 248,
+    "line_index_2": 3,
+    "heRef_2": "משנה פרה ח׳",
+    "path_2": "משנה פרה.txt",
+    "Conection Type": "linker",
+    "start": 554,
+    "end": 563
+  },
+  {
+    "line_index_1": 248,
+    "line_index_2": 3,
+    "heRef_2": "משנה מקואות ה׳",
+    "path_2": "משנה מקואות.txt",
+    "Conection Type": "linker",
+    "start": 564,
+    "end": 577
+  },
+  {
+    "line_index_1": 251,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות ברכות י׳",
+    "path_2": "משנה תורה, הלכות ברכות.txt",
+    "Conection Type": "linker",
+    "start": 57,
+    "end": 79
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 3,
+    "heRef_2": "יומא ל״ה",
+    "path_2": "יומא.txt",
+    "Conection Type": "linker",
+    "start": 62,
+    "end": 74
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 4,
+    "heRef_2": "משנה תורה, הלכות תעניות ד׳",
+    "path_2": "משנה תורה, הלכות תעניות.txt",
+    "Conection Type": "linker",
+    "start": 1930,
+    "end": 1945
+  }
+]

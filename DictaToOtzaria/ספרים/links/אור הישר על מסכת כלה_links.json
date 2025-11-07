@@ -1,20 +1,20 @@
-{
-    "3": [
-        {
-            "start": 121,
-            "end": 139,
-            "refs": {
-                "Tractate Kallah Rabbati 1": "מסכת כלה רבתי א׳"
-            }
-        }
-    ],
-    "5": [
-        {
-            "start": 498,
-            "end": 508,
-            "refs": {
-                "Nedarim 62": "נדרים ס״ב"
-            }
-        }
-    ]
-}
+[
+  {
+    "line_index_1": 3,
+    "line_index_2": 3,
+    "heRef_2": "מסכת כלה רבתי א׳",
+    "path_2": "מסכת כלה רבתי.txt",
+    "Conection Type": "linker",
+    "start": 121,
+    "end": 139
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 3,
+    "heRef_2": "נדרים ס״ב",
+    "path_2": "נדרים.txt",
+    "Conection Type": "linker",
+    "start": 498,
+    "end": 508
+  }
+]
