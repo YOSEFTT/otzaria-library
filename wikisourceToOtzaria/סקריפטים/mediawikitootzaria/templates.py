@@ -1,14 +1,16 @@
+from __future__ import annotations
+
 import json
 import re
 
+import mwparserfromhell
 from wikiexpand.expand import ExpansionContext
 from wikiexpand.expand.templates import TemplateDict
-import mwparserfromhell
 
 from . import mediawikiapi, utils
 
 
-def filter_templates(string: str, all_templates=None, template_dict=None) -> list[list[str]] | bool:
+def filter_templates(string: str, all_templates: list[str] | None = None, template_dict: TemplateDict | None = None) -> list[list[str]] | bool:
     """מחזיר את התבניות ברמה העליונה של הטקסט"""
     string_2 = []
     parsed = mwparserfromhell.parse(string)
@@ -21,11 +23,10 @@ def filter_templates(string: str, all_templates=None, template_dict=None) -> lis
                 template_str = " ".join([str(param) for param in template.params])
             string_2.append([str(template), template.name, template_str])
         return string_2
-    else:
-        return False
+    return False
 
 
-def clean_comment(comment: str, all_templates: list, template_dict: TemplateDict) ->str:
+def clean_comment(comment: str, all_templates: list | None, template_dict: TemplateDict) -> str:
     """מסיר תבניות מההערה"""
     while True:
         replace = filter_templates(comment, all_templates, template_dict)
@@ -52,6 +53,11 @@ def remove_templates(wikitext: str, template_dict=None) -> tuple[str, dict]:
 
     dict_comments = {}
     sup = 0
+    remove_templates_dict = {
+        "ש": "\n",
+        "חלקי": "",
+        # "גופן": "",
+    }
     while True:
         replace = filter_templates(wikitext, all_templates, template_dict)
         if not replace:
@@ -61,8 +67,8 @@ def remove_templates(wikitext: str, template_dict=None) -> tuple[str, dict]:
                 sup += 1
                 dict_comments[sup] = clean_comment(i[2], all_templates, template_dict)
                 rp = f'<sup style="color: gray;">{sup}</sup>'
-            elif i[1].strip() == "ש":
-                rp = "\n"
+            elif i[1].strip() in remove_templates_dict:
+                rp = remove_templates_dict[i[1].strip()]
             else:
                 rp = i[2]
             wikitext = wikitext.replace(i[0], rp)

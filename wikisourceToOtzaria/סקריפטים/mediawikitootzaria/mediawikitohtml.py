@@ -13,6 +13,7 @@
 """
 
 import re
+
 import wikitextparser as wtp
 
 
@@ -94,3 +95,10 @@ def wikitext_to_html(wikitext: str, start_heading_level=2) -> str:
         protected_text = protected_text.replace(key, html_region)
     protected_text = "\n".join(list(map(lambda x: x.lstrip(":"), protected_text.split("\n"))))
     return protected_text
+
+
+def fix_new_lines(text: str) -> str:
+    """מתקן שורות חדשות בטקסט"""
+    text = re.sub(r'([^\n])\n([^\n])', r'\1 \2', text)  # מחליף שורות חדשות במרווח
+    text = re.sub(r'\n{2,}', r'\n', text)  # מחליף שורות חדשות מרובות בשורה חדשה אחת
+    return text

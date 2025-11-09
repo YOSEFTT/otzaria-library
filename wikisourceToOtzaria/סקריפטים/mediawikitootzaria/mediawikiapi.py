@@ -9,11 +9,11 @@
 """
 import requests
 
-
 WIKISOURCE = "https://he.wikisource.org/w/api.php"  # ה end-point של ויקיטקסט
 YESHIVA = "https://www.yeshiva.org.il/wiki/api.php"  # ה end-point של ויקישיבה
 JEWISHBOOKS = "https://wiki.jewishbooks.org.il/mediawiki/api.php"  # ה end-point של אוצר הספרים היהודי השיתופי
 BASE_URL = ""
+SESSION = requests.Session()
 
 
 def get_ns_list() -> list:
@@ -29,7 +29,7 @@ def get_ns_list() -> list:
             'format': 'json',
             'apcontinue': apcontinue
         }
-        response = requests.get(BASE_URL, params=params)
+        response = SESSION.get(BASE_URL, params=params)
         data = response.json()
         if 'query' in data and 'namespaces' in data['query']:
             namespaces.extend(data['query']['namespaces'].values())
@@ -66,7 +66,7 @@ def get_list_by_ns(ns: str | int) -> list:
             'format': 'json',
             'apcontinue': apcontinue
         }
-        response = requests.get(BASE_URL, params=params)
+        response = SESSION.get(BASE_URL, params=params)
         data = response.json()
         if 'query' in data and 'allpages' in data['query']:
             pages.extend([page["title"] for page in data['query']['allpages']])
@@ -103,7 +103,7 @@ def get_list_by_name(name: str) -> list:
             'format': 'json',
             'apcontinue': apcontinue
         }
-        response = requests.get(BASE_URL, params=params)
+        response = SESSION.get(BASE_URL, params=params)
         data = response.json()
         if 'query' in data and 'allpages' in data['query']:
             pages.extend([page["title"] for page in data['query']['allpages']])
@@ -133,7 +133,7 @@ def get_list_by_category(category: str) -> list:
             'format': 'json',
             'cmcontinue': cmcontinue
         }
-        response = requests.get(BASE_URL, params=params)
+        response = SESSION.get(BASE_URL, params=params)
         data = response.json()
         if 'query' in data and 'categorymembers' in data['query']:
             pages.extend([page["title"] for page in data['query']['categorymembers']])
@@ -158,7 +158,7 @@ def get_page_content(page_title: str) -> str:
         'format': 'json',
     }
     try:
-        response = requests.get(BASE_URL, params=params)
+        response = SESSION.get(BASE_URL, params=params)
         response.raise_for_status()
 
         data = response.json()

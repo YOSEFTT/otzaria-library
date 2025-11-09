@@ -13,9 +13,10 @@ Note:
 The method of marking footnotes varies from book to book, so it may be necessary to change the extract_comments function.
 """
 
-from bs4 import BeautifulSoup
-import re
 import html
+import re
+
+from bs4 import BeautifulSoup
 
 
 def extract_comments(html_content: str) -> tuple[str, dict]:
