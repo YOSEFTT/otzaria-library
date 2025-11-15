@@ -4,8 +4,7 @@ import shutil
 
 import requests
 
-
-BASE_URL = "https://raw.githubusercontent.com/zevisvei/otzaria-library/refs/heads/main/"
+BASE_URL = "https://raw.githubusercontent.com/Y-PLONI/otzaria-library/refs/heads/main/"
 BASE_PATH = "אוצריא"
 LOCAL_PATH = ""
 DEL_LIST_FILE_NAME = "del_list.txt"

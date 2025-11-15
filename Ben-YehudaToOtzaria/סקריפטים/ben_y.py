@@ -1,7 +1,7 @@
 import csv
-import re
-import os
 import html
+import re
+from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
@@ -16,8 +16,7 @@ def new_folder_name() -> tuple[str, str]:
 
 
 def sanitize_filename(filename: str) -> str:
-    sanitized_filename = re.sub(r'[\\/:"*?<>|]', '', filename).replace('_', ' ')
-    return sanitized_filename
+    return re.sub(r'[\\/:"*?<>|]', '', filename).replace('_', ' ')
 
 
 def adjust_html_tag_spaces(html: str) -> str:
@@ -31,9 +30,7 @@ def adjust_html_tag_spaces(html: str) -> str:
     while re.findall(start_pattern, html):
         html = re.sub(start_pattern, r'\2\1', html)
     # Clean up any double spaces created by the previous step
-    html = re.sub(r'[ ]{2,}', ' ', html)
-
-    return html
+    return re.sub(r'[ ]{2,}', ' ', html)
 
 
 def extract_html_info(html: str) -> tuple:
@@ -79,7 +76,7 @@ def process_body_html(body_html: str) -> str:
             heading.name = f'h{new_level}'
     for tag in soup.find_all():
         if tag.name not in supported_tags:
-            tag.unwrap() #צריך לסדר את span וdiv
+            tag.unwrap()  # צריך לסדר את span וdiv
         elif tag.name.lower() in ("section", "span", "tr", "div", "a"):
             tag_class = tag.attrs.get("class")
             if tag_class:
@@ -117,33 +114,30 @@ def process_body_html(body_html: str) -> str:
     return text
 
 
-def get_updated_csv(url: str) -> list | None:
+def get_updated_csv(url: str) -> list[list[str]]:
     content = requests.get(url)
-    if content.status_code == 200:
-        content = content.text.splitlines()
-        csv_format = csv.reader(content)
-        return list(csv_format)
+    content.raise_for_status()
+    content = content.text.splitlines()
+    csv_format = csv.reader(content)
+    return list(csv_format)
 
 
-def read_old_csv_file(csv_path: str) -> list:
-    if os.path.exists(csv_path):
-        with open(csv_path, "r", encoding="utf-8") as csv_content:
+def read_old_csv_file(csv_path: Path) -> list[list[str]]:
+    if csv_path.exists():
+        with csv_path.open("r", encoding="utf-8") as csv_content:
             return list(csv.reader(csv_content))
-    else:
-        return []
+    return []
 
 
-def author_list(file_path: str) -> list:
-    if os.path.exists(file_path):
-        with open(file_path, "r", encoding="utf-8") as file:
-            list_all = file.read().splitlines()
-        return list_all
-    else:
-        return []
+def author_list(file_path: Path) -> list[str]:
+    if file_path.exists():
+        with file_path.open("r", encoding="utf-8") as file:
+            return file.read().splitlines()
+    return []
 
 
-def write_to_csv(csv_path: str, data: list) -> None:
-    with open(csv_path, "a", newline='', encoding='utf-8') as csv_file:
+def write_to_csv(csv_path: Path, data: list) -> None:
+    with csv_path.open("a", newline='', encoding='utf-8') as csv_file:
         csv_writer = csv.writer(csv_file)
         csv_writer.writerow(data)
 
@@ -151,60 +145,77 @@ def write_to_csv(csv_path: str, data: list) -> None:
 def get_book(book_path: str, base_url: str) -> str | None:
     full_url = f"{base_url}/{book_path}.html"
     content = requests.get(full_url)
-    if content.status_code == 200:
-        content = content.text
-        return content
-    else:
-        print(full_url)
+    content.raise_for_status()
+    return content.text
 
 
-def main(url: str, koser_file: str, base_url: str, not_koser_file: str, need_to_check_file: str, csv_path: str, destination_path: str) -> None:
+def genre_folder_name(genre: str) -> str:
+    genre_map = {
+        "article": "מאמרים",
+        "drama": "דרמה",
+        "fables": "משלים",
+        "letters": "מכתבים",
+        "lexicon": "לקסיקון",
+        "memoir": "זכרונות",
+        "poetry": "שירה",
+        "prose": "פרוזה",
+        "reference": "ספרי עיון",
+    }
+    genre = genre.split(":")[-1].split(".")[-1].strip()
+    return genre_map.get(genre, sanitize_filename(genre))
+
+
+def main(url: str, kosher_file: Path, base_url: str, not_kosher_file: Path, need_to_check_file: Path, csv_path: Path, destination_path: Path) -> None:
     updated_csv = get_updated_csv(url)
     old_csv = read_old_csv_file(csv_path)
-    kosher_list = author_list(koser_file)
-    not_koser_list = author_list(not_koser_file)
+    kosher_list = author_list(kosher_file)
+    not_kosher_list = author_list(not_kosher_file)
     need_to_check_list = author_list(need_to_check_file)
     for line in updated_csv[1:]:
-        if line not in old_csv:
-            author = line[3]
-            if author not in not_koser_file:
-                if author in kosher_list:
-                    html_content = get_book(line[1], base_url)
-                    if html_content:
-                        pattern = r'את הטקסט לעיל הפיקו מתנדבי <a href="https://benyehuda\.org/">פרויקט בן־יהודה באינטרנט</a>\.  הוא זמין תמיד בכתובת הבאה:<br /><a href="https://benyehuda\.org/read/\d*">https://benyehuda\.org/read/\d*</a>'
-                        html_content = re.sub(pattern, '', html_content)
-                        title, author, body = extract_html_info(html_content)
-                        processed_text = process_body_html(body).splitlines()
-                        output_text = [f"<h1>{title}</h1>" if title else f"<h1>{line[2]}</h1>", author if author else (line[3] if line[3] else "")] + [adjust_html_tag_spaces(line).strip() for line in processed_text if line.strip() and line.strip() != "<!DOCTYPE html>"]
-                        if output_text[2] == title:
-                            output_text.pop(2)
-                        join_lines = html.unescape("\n".join(output_text))
-                        target_path = os.path.join(destination_path, sanitize_filename(line[8]), sanitize_filename(line[3]))
-                        os.makedirs(target_path, exist_ok=True)
-                        target_file = os.path.join(target_path, f"{sanitize_filename(line[2])}.txt")
-                        num = 1
-                        while os.path.exists(target_file):
-                            num += 1
-                            target_file = os.path.join(target_path, f"{sanitize_filename(line[2])}_{num}.txt")
-                        with open(target_file, "w", encoding="utf-8") as output:
-                            output.write(join_lines)
-                        write_to_csv(csv_path, line)
-                elif author not in need_to_check_list and author not in not_koser_list:
-                    need_to_check_list.append(author)
-                    with open(need_to_check_file, "w", encoding="utf-8") as need_to_check_new:
-                        need_to_check_new.write("\n".join(need_to_check_list))
+        if line in old_csv:
+            continue
+        author = line[3]
+        if author in not_kosher_list:
+            continue
+        if author not in kosher_list:
+            if author not in need_to_check_list and author not in not_kosher_list:
+                need_to_check_list.append(author)
+                with need_to_check_file.open("w", encoding="utf-8") as need_to_check_new:
+                    need_to_check_new.write("\n".join(need_to_check_list))
+            continue
+        html_content = get_book(line[1], base_url)
+        if html_content:
+            pattern = r'את הטקסט(?:ים|\[ים\])?\s+לעיל\s+הפיקו\s+מתנדבי\s+<a href="https://benyehuda\.org/">פרויקט בן־יהודה באינטרנט</a>\.\s*<br\s*/?>\s*הכל\s+זמין\s+תמיד\s+בכתובת\s+הבאה:\s*<br\s*/?>\s*<a href="https://benyehuda\.org/read/\d+">https://benyehuda\.org/read/\d+</a>'
+            html_content = re.sub(pattern, '', html_content)
+            title, author, body = extract_html_info(html_content)
+            processed_text = process_body_html(body).splitlines()
+            output_text = [f"<h1>{title}</h1>" if title else f"<h1>{line[2]}</h1>", author if author else (line[3] if line[3] else "")] + [adjust_html_tag_spaces(line).strip() for line in processed_text if line.strip() and line.strip() != "<!DOCTYPE html>"]
+            if output_text[2] == title:
+                output_text.pop(2)
+            join_lines = html.unescape("\n".join(output_text))
+            target_path = destination_path / genre_folder_name(line[8]) / sanitize_filename(line[3])
+            target_path.mkdir(parents=True, exist_ok=True)
+            target_file = target_path / f"{sanitize_filename(line[2])}.txt"
+            num = 1
+            while target_file.exists():
+                num += 1
+                target_file = target_path / f"{sanitize_filename(line[2])}_{num}.txt"
+            with target_file.open("w", encoding="utf-8") as output:
+                output.write(join_lines)
+            write_to_csv(csv_path, line)
 
 
 url = "https://raw.githubusercontent.com/projectbenyehuda/public_domain_dump/refs/heads/master/pseudocatalogue.csv"
-koser_file = "koser_file.txt"
-not_koser_file = "not_koser_file.txt"
-need_to_check_file = "need_to_check.txt"
+kosher_file = Path(__file__).parent / "kosher_file.txt"
+not_kosher_file = Path(__file__).parent / "not_kosher_file.txt"
+need_to_check_file = Path(__file__).parent / "need_to_check.txt"
 base_url = "https://raw.githubusercontent.com/projectbenyehuda/public_domain_dump/refs/heads/master/html"
-csv_path = "list.csv"
+csv_path = Path(__file__).parent / "list.csv"
 year, month = new_folder_name()
-destination_path = os.path.join("..", "ספרים", "לא ממויין", year, month)
+destination_path = Path(__file__).parent.parent / "ספרים" / "לא ממויין" / year / month
 num = 1
-while os.path.exists(destination_path):
+while destination_path.exists():
     num += 1
-    destination_path = os.path.join("..", "ספרים", "לא ממויין", year, f"{month}_{num}")
-main(url, koser_file, base_url, not_koser_file, need_to_check_file, csv_path, destination_path)
+    destination_path = Path(__file__).parent.parent / "ספרים" / "לא ממויין" / year / f"{month}_{num}"
+
+main(url, kosher_file, base_url, not_kosher_file, need_to_check_file, csv_path, destination_path)
