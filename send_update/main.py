@@ -17,6 +17,7 @@ folders = [
     "sefariaToOtzaria/sefaria_api/ספרים/אוצריא",
     "MoreBooks/ספרים/אוצריא",
     "wiki_jewish_books/ספרים/אוצריא",
+    "ToratEmetToOtzaria/ספרים/אוצריא",
 ]
 
 

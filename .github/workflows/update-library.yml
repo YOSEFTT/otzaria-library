@@ -23,6 +23,8 @@ on:
       - "MoreBooks/ספרים/links/**"
       - "ToratEmetToOtzaria/ספרים/links/**"
       - "wiki_jewish_books/ספרים/links/**"
+      - "DictaToOtzaria/ספרים/לא ערוך/אוצריא/**"
+      - "DictaToOtzaria/ספרים/לא ערוך/links/**"
   workflow_dispatch:
 permissions:
   contents: write
@@ -89,6 +91,7 @@ jobs:
             -path "./sefariaToOtzaria/sefaria_export/ספרים/אוצריא/*" -o \
             -path "./sefariaToOtzaria/sefaria_api/ספרים/אוצריא/*" -o \
             -path "./MoreBooks/ספרים/אוצריא/*" -o \
+            -path "./ToratEmetToOtzaria/ספרים/אוצריא/*" -o \
             -path "./wiki_jewish_books/ספרים/אוצריא/*" \
           \) -type f \
           ! -path "./.git/*" \
@@ -109,6 +112,7 @@ jobs:
             -path "./sefariaToOtzaria/sefaria_export/links/*" -o \
             -path "./sefariaToOtzaria/sefaria_api/links/*" -o \
             -path "./MoreBooks/links/*" -o \
+            -path "./ToratEmetToOtzaria/links/*" -o \
             -path "./wiki_jewish_books/links/*" \
           \) -type f \
           ! -path "./.git/*" \
@@ -122,6 +126,21 @@ jobs:
           # Remove the trailing comma from the last entry and close the JSON
           sed -i '$ s/,$//' files_manifest.json
           echo "}" >> files_manifest.json
+
+      - name: Generate dicta Files Manifest
+        run: |
+          echo "{" > files_manifest_dicta.json
+          find ./DictaToOtzaria/ספרים/לא\ ערוך -type f \
+            ! -path "./.git/*" \
+            ! -path "./.github/*" \
+            2>/dev/null | while read -r file; do
+              path="${file#./}"
+              hash=$(sha256sum "$file" | cut -d" " -f1)
+              echo "\"$path\": {\"hash\": \"$hash\"},"
+          done >> files_manifest_dicta.json
+          sed -i '$ s/,$//' files_manifest_dicta.json
+          echo "}" >> files_manifest_dicta.json
+
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
@@ -146,6 +165,7 @@ jobs:
           [ -d "sefariaToOtzaria/sefaria_api/ספרים/אוצריא" ] && cp -r "sefariaToOtzaria/sefaria_api/ספרים/אוצריא/." temp_zip/אוצריא/ 2>/dev/null || true
           [ -d "MoreBooks/ספרים/אוצריא" ] && cp -r "MoreBooks/ספרים/אוצריא/." temp_zip/אוצריא/ 2>/dev/null || true
           [ -d "wiki_jewish_books/ספרים/אוצריא" ] && cp -r "wiki_jewish_books/ספרים/אוצריא/." temp_zip/אוצריא/ 2>/dev/null || true
+          [ -d "ToratEmetToOtzaria/ספרים/אוצריא" ] && cp -r "ToratEmetToOtzaria/ספרים/אוצריא/." temp_zip/אוצריא/ 2>/dev/null || true
           
           echo "Merging link files into links directory..."
           # Copy all link files from source directories to merged links
@@ -158,6 +178,7 @@ jobs:
           [ -d "sefariaToOtzaria/sefaria_api/links" ] && cp -r "sefariaToOtzaria/sefaria_api/links/." temp_zip/links/ 2>/dev/null || true
           [ -d "MoreBooks/links" ] && cp -r "MoreBooks/links/." temp_zip/links/ 2>/dev/null || true
           [ -d "wiki_jewish_books/links" ] && cp -r "wiki_jewish_books/links/." temp_zip/links/ 2>/dev/null || true
+          [ -d "ToratEmetToOtzaria/links" ] && cp -r "ToratEmetToOtzaria/links/." temp_zip/links/ 2>/dev/null || true
           
           echo "Files merged successfully!"
 
@@ -172,6 +193,18 @@ jobs:
           zip -q otzaria_latest.zip files_manifest.json metadata.json || true
           
           echo "Archive created successfully with merged directory structure"
+          rm -rf temp_zip
+      - name: Create dicta Release Archive
+        run: |
+        
+          mkdir -p temp_zip_dicta/אוצריא
+          cp -r DictaToOtzaria/ספרים/לא\ ערוך/. temp_zip_dicta/
+          cd temp_zip_dicta
+          zip -qr ../otzaria_dicta_latest.zip אוצריא
+          cd ..
+          zip -q otzaria_dicta_latest.zip files_manifest_dicta.json || true
+          echo "Dicta archive created successfully"
+          rm -rf temp_zip_dicta
 
       - name: Delete existing 'latest' release and tag
         continue-on-error: true
@@ -194,4 +227,6 @@ jobs:
           gh release create latest \
             --title "Latest Otzaria Files" \
             --notes "Latest version of Otzaria files" \
-            otzaria_latest.zip
+            otzaria_latest.zip\
+            otzaria_dicta_latest.zip
+          rm otzaria_latest.zip otzaria_dicta_latest.zip
